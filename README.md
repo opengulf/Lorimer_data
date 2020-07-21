@@ -1,15 +1,15 @@
 # Welcome to OpenGulf!
 
-This repository contains datasets that have been created by the Historical Texts as Data (HTD) project at OpenGulf. In particular this repository contains datasets derived from the Geographical and Statistical section of John G. Lorimer’s _Gazetteer of the Persian Gulf, Oman and Central Arabia_ (1908).  They were created at NYU Abu Dhabi.
+This repository contains datasets that have been created by the Historical Texts as Data (HTD) project at OpenGulf. In particular this repository contains datasets derived from the Geographical and Statistical section of [John G. Lorimer’s _Gazetteer of the Persian Gulf, Oman and Central Arabia_](https://archive.org/details/in.ernet.dli.2015.206963/page/n5/mode/2up) (1908).  They were created at NYU Abu Dhabi.
 
 ## Repositories
 
 This repository contains four datasets representing historical data from around or before 1907. They are named:
 
-* Wells on the Qatar Promontory [dataset]() | [map]()
-* Historical Neighborhoods of Buraimi (Baraimi) [dataset]() | [map]()
-* Protection of the Pearling Industry [dataset]() | [map]()
-* Bahrain Date Palms in 1907 [dataset]() | [map]()
+* Wells on the Qatar Promontory [dataset](https://github.com/opengulf/Lorimer_data/blob/master/wells_qatar_1904-07.csv) | [map]()
+* Historical Neighborhoods of Buraimi (Baraimi) [dataset](https://github.com/opengulf/Lorimer_data/blob/master/palms_livestock_Buraimi.csv) | [map]()
+* Protection of the Pearling Industry [dataset](https://github.com/opengulf/Lorimer_data/blob/master/pearl_protection.csv) | [map]()
+* Bahrain Date Palms in 1907 [dataset](https://github.com/opengulf/Lorimer_data/blob/master/BH_date_palms.csv) | [map]()
 
 ## Licenses
 
