@@ -6,10 +6,10 @@ This repository contains datasets that have been created by the Historical Texts
 
 This repository contains four datasets representing historical data from around or before 1907. They are named:
 
-Wells on the Qatar Promontory [dataset]() | [map]()
-Historical Neighborhoods of Buraimi (Baraimi) [dataset]() | [map]()
-Protection of the Pearling Industry [dataset]() | [map]()
-Bahrain Date Palms in 1907 [dataset]() | [map]()
+* Wells on the Qatar Promontory [dataset]() | [map]()
+* Historical Neighborhoods of Buraimi (Baraimi) [dataset]() | [map]()
+* Protection of the Pearling Industry [dataset]() | [map]()
+* Bahrain Date Palms in 1907 [dataset]() | [map]()
 
 ## Licenses
 
