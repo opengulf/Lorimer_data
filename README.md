@@ -21,4 +21,4 @@ OpenGulf Project (2020). [Name of Dataset]. https://github.com/opengulf/Lorimer_
 
 ## Archiving
 
-These datasets are archived at Zenodo. DOI:10.5281/zenodo.3955081
+Version 1.0 of these datasets are archived at Zenodo. DOI:10.5281/zenodo.3955081
