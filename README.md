@@ -17,8 +17,8 @@ These datasets are licensed with a [Creative Commons 4.0 BY-NC-SA International 
 
 ## Suggested Citation 
 
-OpenGulf Project (2020). [Name of Dataset]. https://github.com/opengulf/Lorimer_data. Accessed xxxx.yy.zz. DOI: 10.5281/zenodo.3955081
+OpenGulf Project (2020). [Name of Dataset]. https://github.com/opengulf/Lorimer_data. Accessed xxxx.yy.zz. DOI:10.5281/zenodo.3955081
 
 ## Archiving
 
-These datasets are archived at Zenodo. DOI: 10.5281/zenodo.3955081
+These datasets are archived at Zenodo. DOI:10.5281/zenodo.3955081
