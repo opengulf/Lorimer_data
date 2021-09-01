@@ -6,11 +6,11 @@ This repository contains datasets that have been created by the Historical Texts
 
 This repository contains four datasets representing historical data from around or before 1907. They are named:
 
-* Wells on the Qatar Promontory [dataset](https://github.com/opengulf/Lorimer_data/blob/master/wells_qatar_1904-07.csv) | [map](https://opengulf.github.io/wells.html)
-* Historical Neighborhoods of Buraimi (Baraimi) [dataset](https://github.com/opengulf/Lorimer_data/blob/master/palms_livestock_Buraimi.csv) | [map](https://opengulf.github.io/buraimioasis.html)
-* Protection of the Pearling Industry [dataset](https://github.com/opengulf/Lorimer_data/blob/master/pearl_protection.csv) | [map](https://opengulf.github.io/pearling.html)
-* Bahrain Date Palms in 1907 [dataset](https://github.com/opengulf/Lorimer_data/blob/master/BH_date_palms.csv) | [map](https://opengulf.github.io/dates.html)
-* Camels in the Early 20th Century Arabian Gulf [dataset](https://github.com/opengulf/Lorimer_data/blob/master/camels_Arabian_Gulf.csv) | [map](https://opengulf.github.io/camels.html)
+* Wells on the Qatar Promontory [dataset](https://github.com/opengulf/Lorimer_data/blob/master/wells_qatar_1904-07.csv) | [map](https://opengulf.github.io/wells)
+* Historical Neighborhoods of Buraimi (Baraimi) [dataset](https://github.com/opengulf/Lorimer_data/blob/master/palms_livestock_Buraimi.csv) | [map](https://opengulf.github.io/buraimioasis)
+* Protection of the Pearling Industry [dataset](https://github.com/opengulf/Lorimer_data/blob/master/pearl_protection.csv) | [map](https://opengulf.github.io/pearling)
+* Bahrain Date Palms in 1907 [dataset](https://github.com/opengulf/Lorimer_data/blob/master/BH_date_palms.csv) | [map](https://opengulf.github.io/dates)
+* Camels in the Early 20th Century Arabian Gulf [dataset](https://github.com/opengulf/Lorimer_data/blob/master/camels_Arabian_Gulf.csv) | [map](https://opengulf.github.io/camels)
 
 ## Licenses
 
