@@ -1,0 +1,752 @@
+Entity_type,AR/FA_Name,Original_EN_Name,Tranformed_EN_Name,Category_of_Entity,Disambiguating_GEO_entities,GEOID_from_GEONAMES ,LAT,LNG,Granular/other_name,comments,Number_of_Camels,File,File_Name_in_AR/FA,File_Name_in_EN,Category_of_File_Name
+Geographic,خير آباد,Khairābād,Khairabad,Village,Found in geonames w/certainty,42505,31.9131,48.4142,,,200,karkheh.txt,كرخه,Karkheh,River
+Geographic,سورک,Sūrag,Surag,Village,Found in geonames w/certainty,43095,25.64674,58.82176,,"Not the actual village but the one on top of it, Surak is only five houses.",200,makran.txt,مكران,Makran ,Coast
+Geographic,يكبوني,Yakbūni,Yakbuni,Unspecified,Found in geonames w/certainty,43161,25.66528,57.81611,,,10,jashk_district.txt,جاشک,Jashk district ,District
+Geographic,قلعه منكلي,Mankali (Qal'eh-i-),Qaleh-i-Mankali,Unspecified,Found in geonames w/certainty,45522,28.8856,51.1666,Mangelī,,20,tangistan.txt,تنگستان,TANGISTAN,District
+Geographic,كجين بالا,Gachīn Bāla,Gachin Bala,Village,Found in geonames w/certainty,48060,27.12667,55.875,,,30,shamil_district.txt,شميل / شميلات,SHAMIL / SHAMILAT,District
+Geographic,چاه خرک,Kharg (Chāh),Chah Kharag,Village,Found in geonames w/certainty,48130,27.431,56.8874,,,20,shamil_district.txt,شميل / شميلات,SHAMIL / SHAMILAT,District
+Geographic,حكمي,Hakami,Hakami,Village,Found in geonames w/certainty,48542,27.1764,57.02152,Ḩakamī-ye Bālā,,30,minab_district.txt,ميناب / مينار ,MINAB / MINAU ,District
+Geographic,وادشت,Vādasht,Vadasht,Unspecified,Found in geonames w/certainty,48556,26.84222,57.04528,,,2,minab_district.txt,ميناب / مينار ,MINAB / MINAU ,District
+Geographic,سركوالم,Sargūalam,Sargualam,Unspecified,Found in geonames w/certainty,48574,26.79306,57.03722,Sargalm,,2,minab_district.txt,ميناب / مينار ,MINAB / MINAU ,District
+Geographic,باتل,Patal,Patal,Unspecified,Found in geonames w/certainty,48580,26.85556,57.06306,Pātal,,5,minab_district.txt,ميناب / مينار ,MINAB / MINAU ,District
+Geographic,مخ جنكان,Mukhjangān,Mukhjangan,Village,Found in geonames w/certainty,48587,26.0635,57.2888,Mogh Changān,,10,biyaban.txt,بيابان,Biyaban,District
+Geographic,قلموي,Qalamūi,Qalamui,Village,Found in geonames w/certainty,48606,26.38873,57.31553,Qal‘eh-ye Mū’ī,,5,biyaban.txt,بيابان,Biyaban,District
+Geographic,سرخوها,Surkhūhā,Surkhuha,Village,Found in genomes w/uncertainty,48674,27.1832,53.0468,,"This is the geonames for Yard Khalaf, it's said to be nearby, but unclear where it is.",12,gabandi.txt,كابندي,Gabandi,Valley
+Geographic,يرد خلف,Khalaf (Yard),Yard Khalaf ,Village,Found in geonames w/certainty,48674,27.1832,53.0468,,,20,gabandi.txt,كابندي,Gabandi,Valley
+Geographic,نخل مقبل,Muqbil (Nakhl),Nakhl Muqbil ,Village,Found in geonames w/certainty,48713,27.20667,53.03,Naran,,3,gabandi.txt,كابندي,Gabandi,Valley
+Geographic,مليكي,Mīlaki,Milaki,Village,Found in geonames w/certainty,48728,27.2412,53.0051,,,5,gabandi.txt,كابندي,Gabandi,Valley
+Geographic,چيكلو,Chaikalau,Chaikalau,Unspecified,Found in geonames w/certainty,68725,25.68333,58.4,,,20,jashk_district.txt,جاشک,Jashk district ,District
+Geographic,كوت سوادي,Suwādi (Kūt),Kut Suwadi ,Village,Found in geonames w/certainty,94064,30.48478,47.95456,,,10,arab_shatt_al.txt,شطّ العرب, Arab (Shatt-al-),River
+Geographic,خوره,Khorah,Khorah,Village,Found in geonames w/certainty,99157,30.3183,48.186,,,8,arab_shatt_al.txt,شطّ العرب, Arab (Shatt-al-),River
+Geographic,حلّه,Hillah town,Hillah ,Town,Found in geonames w/certainty,99347,32.46367,44.41963,,,700,hillah_town.txt,حلّه,Hillah town,Town
+Geographic,دعيجي,Da'aiji,Daaiji,Village,Found in geonames w/certainty,99761,30.48226,48.01862,Qaryat ad Da‘yjī,,20,arab_shatt_al.txt,شطّ العرب,Arab (Shatt-al-),River
+Geographic,ابو الخضيب,Khasīb (Abul),Abul Khasib ,Town,Found in geonames w/certainty,100050,30.44636,47.97813,,,50,khasib_abul.txt,ابو الخضيب,Khasib (Abul),Town
+Geographic,عشيره,Ashairah,Ashairah,Village,Found in geonames w/certainty,100661,25.59949,45.79687,,,200,sadair.txt,سدير,SADAIR,District
+Geographic,عنيزه, 'Anaizah,Anaizah,Town,Found in geonames w/certainty,100768,26.08793,43.96368,,,1000,anaizah.txt,عنيزه,Anaizah,Town
+Geographic,شقره,SHAQRAH,Shaqrah,Town,Found in geonames w/certainty,102170,25.24019,45.25104,,,500,shaqrah.txt,شقره,SHAQRAH,Town
+Geographic,نطاع,NTĀ',Nta,Village,Found in geonames w/certainty,103522,27.21598,48.42359,,,30,nta_.txt,نطاع,NTA',Village
+Geographic,نجد,NAJD,Najd,Unspecified,Found in geonames w/certainty,103644,25,44.5,,,20,najd.txt,نجد,NAJD,Unspecified
+Geographic,منفوحه,Manfūhah,Manfuhah,Village,Found in geonames w/certainty,104433,24.59918,46.7278,,,30,hanifah_wadi.txt,وادي حليفه,Hanifah (Wadi),Valley
+Geographic,جلاجل,Jalājil,Jalajil,Unspecified,Found in geonames w/certainty,105471,25.67865,45.45141,,,400,sadair.txt,سدير,SADAIR,District
+Geographic,حرمه,Harmah,Harmah,Village,Found in geonames w/certainty,106062,25.92625,45.32967,,,300,sadair.txt,سدير,SADAIR,District
+Geographic,بريده,Buraidah,Buraidah,Town,Found in geonames w/certainty,107304,26.32599,43.97497,,,1000,buraidah.txt,بريده,Buraidah,Town
+Geographic,عين ابن فهيد,Fahaid ('Ain Ibn-),Ain Ibn Fahaid ,Village,Found in geonames w/certainty,107840,26.77157,44.2071,,,50,qasim.txt,قصيم نجد,QASIM / MIDDLE NAJD,District
+Geographic,صرّار,Sarrār,Sarrar,Village,Found in geonames w/certainty,108098,26.9829,48.38653,,,30,miyah_wadi_al.txt,وادي المياه,MIYAH (WADI-AL-),Valley
+Geographic,سمليّه/سليميّه,Salamiyah \ Sulaimīyah,Salamiyah / Sulaimiyah,Village,Found in geonames w/certainty,108120,24.20154,47.28872,,,200,kharj.txt,خرج,Kharj,District
+Geographic,يمامه,Yamāmah,Yamamah,Village,Found in geonames w/certainty,108738,24.18211,47.32775,,,300,kharj.txt,خرج,Kharj,District
+Geographic,مجمح,Majma,Majma,Town,Found in geonames w/certainty,109194,25.91097,45.35665,Al Majma'ah,,600,majma.txt,مجمح,Majma,Town
+Geographic,خبره,Khabrah,Khabrah,Town,Found in geonames w/certainty,109391,26.07179,43.62497,,,300,khabrah.txt,خبره,Khabrah,Town
+Geographic,حوطه,Hautah,Hautah,Unspecified,Found in geonames w/certainty,109616,25.59672,45.62744,Ḩawţat Sudayr,,40,sadair.txt,سدير,SADAIR,District
+Geographic,حريق,Harīq town,Hariq town,Town,Found in geonames w/certainty,109653,23.63546,46.50638,,,500,hariq.txt,حريق,Hariq,District
+Geographic,برود السياح,Barūd-as-Siyāh,Barud as Siyah,Unspecified,Found in geonames w/certainty,109925,26.86382,44.15091,,,30,qasim.txt,قصيم نجد,QASIM / MIDDLE NAJD,District
+Geographic,برّه,Barrah,Barrah,Village,Found in geonames w/certainty,109928,24.91545,45.86545,,,40,aridh_district.txt,عارض,aridh district,District
+Geographic,عوده,Audah,Audah,Unspecified,Found in geonames w/certainty,109995,25.55439,45.68652,Awdat Sudayr,,150,sadair.txt,سدير,SADAIR,District
+Geographic,عطّار,Attār,Attar,Unspecified,Found in geonames w/certainty,110004,25.56789,45.63906,,,30,sadair.txt,سدير,SADAIR,District
+Geographic,دلم,Dilam,Dilam,Unspecified,Found in geonames w/certainty,110314,23.99104,47.16181,,,600,dilam.txt,دلم,Dilam,Unspecified
+Geographic, ابا الدود /  احلب الدود,Dūd (Ab-ad-) / Ahlab-ad-Dūd,Ab ad Dud  / Ahlab ad Dud,Village,Found in geonames w/certainty,110769,27.02099,44.07662,,,50,qasim.txt,قصيم نجد,QASIM / MIDDLE NAJD,District
+Geographic,تنک,Tank,Tank,Village,Found in genomes w/uncertainty,110864,25.36056,59.89044,Bandar Tang,"A notablish port near where Lorimer described but also way closer to the shore and not really near the river he talked about, but Khawr Tank seems to have been the river and just dried up.",30,makran.txt,مكران,Makran ,Coast
+Geographic,زوبار,Zūbār,Zubar,Village,Found in geonames w/certainty,110943,27.3595,52.6996,,,15,gabandi.txt,كابندي,Gabandi,Valley
+Geographic,زيركوه,Zīrkūh,Zirkuh,Unspecified,Found in geonames w/certainty,110973,25.79153,57.54303,,,10,jashk_district.txt,جاشک,Jashk district ,District
+Geographic,زيارت,Ziyārat,Ziyarat,Village,Found in geonames w/certainty,111039,28.1664,51.3712,Zīārat Sāḩelī,,60,dashti.txt,دشتي,Dashti,District
+Geographic,زينبي,Zainubi,Zainubi,Village,Found in geonames w/certainty,111095,26.8845,55.9586,,,12,qishm_island.txt,قشم,QISHM ISLAND ,Island
+Geographic,زوارو,Zawāru,Zawaru,Unspecified,Found in geonames w/certainty,111204,25.65395,58.45089,,,50,jashk_district.txt,جاشک,Jashk district ,District
+Geographic,يكدر,Yakdar,Yakdar,Unspecified,Found in geonames w/certainty,111791,25.68756,58.10295,,,50,jashk_district.txt,جاشک,Jashk district ,District
+Geographic,تومراحي,Tūmrāhi,Tumrahi,Village,Found in geonames w/certainty,112502,26.47298,57.15818,Tombān Rāhī,,3,biyaban.txt,بيابان,Biyaban,District
+Geographic,كنار اسماعيل,Kunār Ismā'īl,Kunar Ismail,Unspecified,Found in geonames w/certainty,112504,26.986,57.0232,Tūmaj,,5,minab_district.txt,ميناب / مينار ,MINAB / MINAU ,District
+Geographic,توجك,Tūjak,Tujak,Village,Found in geonames w/certainty,112520,26.0415,57.2368,,,4,biyaban.txt,بيابان,Biyaban,District
+Geographic,تمبک,Tambak,Tambak,Unspecified,Found in geonames w/certainty,112678,27.08583,57.01583,,,300,minab_district.txt,ميناب / مينار ,MINAB / MINAU ,District
+Geographic,تخم ماري,Takhm Māri,Takhm Mari,Unspecified,Found in geonames w/certainty,112730,28.9263,51.1321,,,30,tangistan.txt,تنگستان,TANGISTAN,District
+Geographic,تاربان,Tāziyan,Taziyan,Village,Found in geonames w/certainty,112944,27.2918,56.1532,,,10,shamil_district.txt,شميل / شميلات,SHAMIL / SHAMILaT,District
+Geographic,تاهروي,Tāhrūi,Tahrui,Village,Found in geonames w/certainty,113577,26.5523,57.102,,,10,biyaban.txt,بيابان,Biyaban,District
+Geographic,سوزه,Sūzeh,Suzeh,Village,Found in geonames w/certainty,113684,26.7807,56.063,,,60,qishm_island.txt,قشم,QISHM ISLAND ,Island
+Geographic,ساؤل ,Sāul ,Saul ,Village,Found in geonames w/certainty,113806,25.60986,59.28025,Sūl,,20,makran.txt,مكران,Makran ,Coast
+Geographic,سروباش,Sarvbāsh ,Sarvbash ,Village,Found in geonames w/certainty,113894,27.2695,52.8367,,,6,gabandi.txt,كابندي,Gabandi,Valley
+Geographic,سركوه,Sarkūh,Sarkuh,Village,Found in geonames w/certainty,113910,25.9334,57.4132,Sorkh Kūh,,4,biyaban.txt,بيابان,Biyaban,District
+Geographic,سهلي,Suhli,Suhli,Village,Found in geonames w/certainty,114183,26.7531,55.7856,,,30,qishm_island.txt,قشم,QISHM ISLAND ,Island
+Geographic,سريك,Sirīk,Sirik,Village,Found in geonames w/certainty,114262,26.5055,57.122,,,10,biyaban.txt,بيابان,Biyaban,District
+Geographic,سيكوي,Sīkūi,Sikui,Village,Found in geonames w/certainty,114336,26.2755,57.2322,,,20,biyaban.txt,بيابان,Biyaban,District
+Geographic,ليراوي,Lirāvi,Liravi,District,Found in geonames w/certainty,114433,30.0633,50.3251,,,100,liravi.txt,ليراوي,Liravi,District
+Geographic,سوركي,Suraki,Suraki,Unspecified,Found in geonames w/certainty,114670,28.8345,51.2006,,,30,tangistan.txt,تنگستان,TANGISTAN,District
+Geographic,شيراهن,Shīrāhan,Shirahan,Village,Found in geonames w/certainty,115032,25.9719,57.3784,Shīr Āhan Shahr,,5,biyaban.txt,بيابان,Biyaban,District
+Geographic,شيبرم,Shībarm,Shibarm,Village,Found in geonames w/certainty,115072,27.98334,51.48873,,,10,dashti.txt,دشتي,Dashti,District
+Geographic,شكرو,Shakaru,Shakaru,Village,Found in geonames w/certainty,115274,26.9483,53.5369,,,15,mugam.txt,مكام / مقام,MUGAM / MUQAM,Valley
+Geographic,شهري,Shahri,Shahri,Village,Found in geonames w/certainty,115412,28.24361,51.49639,,,25,dashti.txt,دشتي,Dashti,District
+Geographic,شغون,Shaghūn,Shaghun,Village,Found in geonames w/certainty,115450,27.2296,56.3506,,,30,shamil_district.txt,شميل / شميلات,SHAMIL / SHAMILaT,District
+Geographic,شميل / شميلات,SHAMĪL / SHAMĪLĀT,Shamil / Shamilat ,District,Found in geonames w/certainty,115559,27.5005,56.8648,,,700,shamil_district.txt,شميل / شميلات,SHAMIL / SHAMILaT,District
+Geographic,سمبيران,Shambīrān,Shambiran,Village,Found in geonames w/certainty,115564,26.0565,57.2462,,,3,biyaban.txt,بيابان,Biyaban,District
+Geographic,شهر نو,Shehrnau,Shehrnau,Unspecified,Found in geonames w/certainty,115769,25.68364,58.01485,,,30,jashk_district.txt,جاشک,Jashk district ,District
+Geographic,ستلو,Sitlu,Sitlu,Village,Found in geonames w/certainty,116331,27.1939,52.9656,,,30,gabandi.txt,كابندي,Gabandi,Valley
+Geographic,سه چاهان,Sih Chāhān,Sih Chahan,Unspecified,Found in geonames w/certainty,116484,26.96178,57.01343,,,3,minab_district.txt,ميناب / مينار ,MINAB / MINAU ,District
+Geographic,سواحل,Savāhil,Savahil,Village,Found in geonames w/certainty,116689,27.353,52.8122,,,3,gabandi.txt,كابندي,Gabandi,Valley
+Geographic,سروستان,Sarvistān,Sarvistan,Village,Found in geonames w/certainty,116881,28.04056,51.82889,Sar Mastān,,50,dashti.txt,دشتي,Dashti,District
+Geographic,سلغ,Salagh,Salagh,Village,Found in geonames w/certainty,117756,26.6899,55.7069,,,20,qishm_island.txt,قشم,QISHM ISLAND ,Island
+Geographic,سهمو ,Sahmu  ,Sahmu  ,Village,Found in geonames w/certainty,117836,27.349,52.8228,Sahveh-ye Shomalī ,,6,gabandi.txt,كابندي,Gabandi,Valley
+Geographic,سهمو شرقي,Sahmu Sharqi,Sahmu Sharqi,Village,Found in geonames w/certainty,117837,27.3405,52.8388,Sahveh-ye Jonūbī,,5,gabandi.txt,كابندي,Gabandi,Valley
+Geographic,سفيه,Safiyeh,Safiyeh,Village,Found in geonames w/certainty,117909,27.3658,52.6898,,,15,gabandi.txt,كابندي,Gabandi,Valley
+Geographic,سديچ ,Sadaich ,Sadaich ,Unspecified,Found in geonames w/certainty,117979,25.70172,58.70884,,,50,jashk_district.txt,جاشک,Jashk district ,District
+Geographic,رستاق,Rustāq,Rustaq,Village,Found in geonames w/certainty,118298,26.88714,53.86306,,,20,mugam.txt,مكام / مقام,MUGAM / MUQAM,Valley
+Geographic,رابن,Rābin,Rabin,Unspecified,Found in geonames w/certainty,118709,27.05329,57.19537,Rāvang,,3,minab_district.txt,ميناب / مينار ,MINAB / MINAU ,District
+Geographic,رمكان,Ramkān,Ramkan,Village,Found in geonames w/certainty,118847,26.8647,56.0374,,,8,qishm_island.txt,قشم,QISHM ISLAND ,Island
+Geographic,ربگ,Rabg,Rabg,Unspecified,Found in geonames w/certainty,119011,25.89945,57.55545,,,10,jashk_district.txt,جاشک,Jashk district ,District
+Geographic,قماط,QUMĀT,Qumat,Village,Found in geonames w/certainty,119081,31.95,48.48333,,,200,qumat.txt,قماط,QUMAT,Village
+Geographic,كلكاضي,Kalkāzi,Kalkazi,Village,Found in geonames w/certainty,120172,27.44639,56.54582,Qal’eh Qāẕī,,20,shamil_district.txt,شميل / شميلات,SHAMIL / SHAMILaT,District
+Geographic,پهل كوش,Puhal-i-kōsh,Puhal-i-kosh,Unspecified,Found in geonames w/certainty,120934,27.009,55.7394,,,4,bastak.txt,بستک,Bastak,District
+Geographic,اموني,Amūni,Amuni,Village,Found in geonames w/certainty,121857,27.256,52.9625,‘Amānī,,12,gabandi.txt,كابندي,Gabandi,Valley
+Geographic,نوبند,Nauband,Nauband,Village,Found in geonames w/certainty,122073,27.2629,57.0087,Now Band-e Qadīm,,10,shamil_district.txt,شميل / شميلات,SHAMIL / SHAMILaT,District
+Geographic,نيان,Niyān,Niyan,Village,Found in geonames w/certainty,122239,27.5496,56.8283,,,30,shamil_district.txt,شميل / شميلات,SHAMIL / SHAMILaT,District
+Geographic,نگور,Nigor,Nigor,Village,Found in geonames w/certainty,122409,25.84768,57.6293,,,10,jashk_district.txt,جاشک,Jashk district ,District
+Geographic,نخل ناخدا,Nakhl Nākhuda,Nakhl Nakhuda,Village,Found in geonames w/certainty,122788,27.1941,56.357,,,10,shamil_district.txt,شميل / شميلات,SHAMIL / SHAMILaT,District
+Geographic,نخل جمال,Jāmāl (Nakhl-i-),Nakhl-i-Jamal,Village,Found in geonames w/certainty,122791,26.9109,53.6105,,,10,mugam.txt,مكام / مقام,MUGAM / MUQAM,Valley
+Geographic,مغ إبراهيم,Mugh Ibrāhīm,Mugh Ibrahim,Unspecified,Found in geonames w/certainty,122794,27.1308,56.9149,Nakhl-e Ebrāhīmī,,10,minab_district.txt,ميناب / مينار ,MINAB / MINAU ,District
+Geographic,مربخ,Marbakh,Marbakh,Village,Found in geonames w/certainty,123293,26.8403,53.8258,Garīsheh,,20,mugam.txt,مكام / مقام,MUGAM / MUQAM,Valley
+Geographic,مخدان,Mukhdān,Mukhdan,Village,Found in geonames w/certainty,123457,28.14267,51.51122,,,100,dashti.txt,دشتي,Dashti,District
+Geographic,مدرمري,Madūmari,Madumari,Unspecified,Found in geonames w/certainty,123549,28.726,51.0745,Moḩammad ‘Āmerī,,20,tangistan.txt,تنگستان,TANGISTAN,District
+Geographic,فركس زار,Margiszār,Margiszar,Unspecified,Found in geonames w/certainty,123549,28.726,51.0745,Moḩammad ‘Āmerī,,25,tangistan.txt,تنگستان,TANGISTAN,District
+Geographic,مشي,Mishi,Mishi,Village,Found in geonames w/certainty,123809,26.4827,57.1331,,,10,biyaban.txt,بيابان,Biyaban,District
+Geographic,ميناب / ميناو,MINĀB / MĪNĀU,Minab / Minau ,Town,Found in geonames w/certainty,123941,27.13104,57.08716,,,300,minab_town.txt,ميناب / ميناو,MINAB / MINAU ,Town
+Geographic,قلعة مشرقي,Qal'eh Mashraqi,Qaleh Mashraqi,Village,Found in geonames w/certainty,124204,30.54933,49.78788,Moshrāgeh,,1000,hindiyan_river.txt,هنديان,Hindiyan river,River
+Geographic,مهيماني,Maihmāni,Maihmani,Village,Found in geonames w/certainty,124328,26.51928,57.24844,,,4,biyaban.txt,بيابان,Biyaban,District
+Geographic,مازغ,Māzigh,Mazigh,Unspecified,Found in geonames w/certainty,124505,27.093,56.9018,Māzegh-e Pā’īn,I chose the lower one as it fit the distance more. ,100,minab_district.txt,ميناب / مينار ,MINAB / MINAU ,District
+Geographic,ماشهران,Māshibrān,Mashibran,Unspecified,Found in geonames w/certainty,124681,27.1522,56.9622,Māshehrān,,7,minab_district.txt,ميناب / مينار ,MINAB / MINAU ,District
+Geographic,شهرو,Shehru,Shehru,Village,Found in geonames w/certainty,125432,27.26669,56.10874,,"North-west, not north-east.",100,shamil_district.txt,شميل / شميلات,SHAMIL / SHAMILaT,District
+Geographic,لوتي,Lūti,Luti,Unspecified,Found in geonames w/certainty,125554,25.69319,58.05492,,,30,jashk_district.txt,جاشک,Jashk district ,District
+Geographic,لير ,Līr,Lir,Village,Found in geonames w/certainty,125665,25.63795,58.86532,Līrdaf,,40,makran.txt,مكران,Makran ,Coast
+Geographic,لاور,Lāvar(I),Lavar(I),Village,Found in geonames w/certainty,125780,28.59403,51.56741,Lāvar-e Pā’īn,,12,dashti.txt,دشتي,Dashti,District
+Geographic,لاش ,Lāsh ,Lash ,Unspecified,Found in geonames w/certainty,125843,25.68282,58.07516,,,30,jashk_district.txt,جاشک,Jashk district ,District
+Geographic,لاش,Lāsh,Lash,Village,Found in geonames w/certainty,125844,25.61097,59.36208,,,50,makran.txt,مكران,Makran ,Coast
+Geographic,لافت,Lāft ,Laft ,Village,Found in geonames w/certainty,126035,26.896,55.7584,,,20,laft.txt,لافت,Laft,Village
+Geographic,لاپنک,Lāpink,Lapink,Unspecified,Found in geonames w/certainty,126037,25.77176,57.75097,,,10,jashk_district.txt,جاشک,Jashk district ,District
+Geographic,كشكنار,Kashkunār,Kashkunar,Village,Found in geonames w/certainty,126089,27.2512,52.8668,,,60,gabandi.txt,كابندي,Gabandi,Valley
+Geographic,قلوغان,Qulūghān,Qulughan,Village,Found in geonames w/certainty,126298,27.2063,56.6421,,,10,shamil_district.txt,شميل / شميلات,SHAMIL / SHAMILaT,District
+Geographic,كوهستك,Kūhistak,Kuhistak,Village,Found in geonames w/certainty,126362,26.8021,57.0267,,,5,minab_district.txt,ميناب / مينار ,MINAB / MINAU ,District
+Geographic,كوه مبارك,Mūbarak (kūh),Kuh Mubarak ,Unspecified,Found in geonames w/certainty,126385,25.827,57.3475,,,50,jashk_district.txt,جاشک,Jashk district ,District
+Geographic,كوهك,Kūhak,Kuhak,Channel,Found in geonames w/certainty,126418,29.4723,50.6865,,,100,hayat_davud.txt,حيات داود,Hayat davud,District
+Geographic,كنخك شمالي,Gankhak Shamāli,Gankhak Shamali,Village,Found in geonames w/certainty,126465,28.28673,51.57521,,,80,dashti.txt,دشتي,Dashti,District
+Geographic,كندرون,Kundarūn,Kundarun,Unspecified,Found in geonames w/certainty,126652,26.75523,54.45641,,,60,shibkuh.txt,شيب كوه,SHIBKUH,District
+Geographic,كنه خيمه,Kunchkhaimeh,Kunchkhaimeh,Village,Found in geonames w/certainty,126680,27.3265,52.762,,,5,gabandi.txt,كابندي,Gabandi,Valley
+Geographic,كنار سياه ,Kunār Siyāh,Kunar Siyah,Village,Found in geonames w/certainty,126685,26.664,55.43,,,4,qishm_island.txt,قشم,QISHM ISLAND ,Island
+Geographic,كندمي,Gandumi,Gandumi,Unspecified,Found in genomes w/uncertainty,126723,27.02,56.9991,Kombīl,"Could be one of three cities, this one fits best, but they are all close",5,minab_district.txt,ميناب / مينار ,MINAB / MINAU ,District
+Geographic,كلل,Kulu,Kulu,Village,Found in genomes w/uncertainty,126761,28.7228,51.2396,,There are two places with the same name that fits lorimer describtion. 1. kolal-e ‘olyā 2.Kolal-e Soflá. the geoid is for the former.,12,dashti.txt,دشتي,Dashti,District
+Geographic,كلاوي,Kalāvi,Kalavi,Unspecified,Found in geonames w/certainty,126838,27.0607,56.8727,Kolāhī,,30,minab_district.txt,ميناب / مينار ,MINAB / MINAU ,District
+Geographic,كزيريز,Gazrīz,Gazriz,Village,Found in geonames w/certainty,126861,27.2471,56.7295,,,30,shamil_district.txt,شميل / شميلات,SHAMIL / SHAMILaT,District
+Geographic,خرموج,Khurmūj ,Khurmuj ,Town,Found in geonames w/certainty,127014,28.6543,51.38,,,1000,khurmuj.txt,خرموج,Khurmuj ,Town
+Geographic,خيارو,Khiyāru,Khiyaru,Village,Found in geonames w/certainty,127457,27.4067,52.7546,,,10,gabandi.txt,كابندي,Gabandi,Valley
+Geographic,خياري,Khiyāri,Khiyari,Unspecified,Found in geonames w/certainty,127458,28.8698,51.1774,,,50,tangistan.txt,تنگستان,TANGISTAN,District
+Geographic,خره,Khareh,Khareh,Village,Found in geonames w/certainty,127611,27.3202,52.7798,,,10,gabandi.txt,كابندي,Gabandi,Valley
+Geographic,خمير,Khamīr,Khamir,Village,Found in geonames w/certainty,127992,26.9521,55.5851,,,50,khamir.txt,خمير,Khamir,Village
+Geographic,كرادون,Kurdavān,Kurdavan,Village,Found in geonames w/certainty,128260,28.186,51.4302,,,25,dashti.txt,دشتي,Dashti,District
+Geographic,كاشي,Kāshi stream,Kashi stream,Stream,Found in geonames w/certainty,128462,25.56336,59.20734,,,350,makran.txt,مكران,Makran ,Coast
+Geographic,كرّي,Karri,Karri,Village,Found in geonames w/certainty,128520,28.41766,51.14033,,,30,tangistan.txt,تنگستان,TANGISTAN,District
+Geographic,كركوشكي,Kargūshki,Kargushki,Village,Found in geonames w/certainty,128655,26.1777,57.2413,,,10,biyaban.txt,بيابان,Biyaban,District
+Geographic,كراي,Karāi,Karai,Village,Found in geonames w/certainty,128677,26.2285,57.2303,,,7,biyaban.txt,بيابان,Biyaban,District
+Geographic,كردر,Kardar,Kardar,Unspecified,Found in geonames w/certainty,128697,27.07936,57.03986,,,2,minab_district.txt,ميناب / مينار ,MINAB / MINAU ,District
+Geographic,كردر,Kardar,Kardar,Village,Found in geonames w/certainty,128698,26.44412,57.18232,,,6,biyaban.txt,بيابان,Biyaban,District
+Geographic,كرتان,Karatān,Karatan,Village,Found in geonames w/certainty,128722,26.28668,57.16509,,,5,biyaban.txt,بيابان,Biyaban,District
+Geographic,كارندهر,Gārindahu,Garindahu,Village,Found in geonames w/certainty,128731,26.40506,57.13659,,,2,biyaban.txt,بيابان,Biyaban,District
+Geographic,كنخك هيراني,Gankhak Hīrāni,Gankhak Hirani,Village,Found in geonames w/certainty,128788,28.26601,51.59379,Katḩak-e Sheykhā,,20,dashti.txt,دشتي,Dashti,District
+Geographic,كنگون,Kangūn,Kangun,Unspecified,Found in geonames w/certainty,128847,27.834,52.0628,,,200,kangun.txt,كنگون,Kangun,Unspecified
+Geographic,گنگان,Gangān,Gangan,Village,Found in geonames w/certainty,128848,25.8626,57.4622,,,300,jashk_district.txt,جاشک,Jashk district ,District
+Geographic,كل بيتا,Gulbīta,Gulbita,Village,Found in geonames w/certainty,129231,28.16809,51.49209,Kalbīā,,60,dashti.txt,دشتي,Dashti,District
+Geographic,كلات بالا وزير,Kalāt Bāla and Zīr,Kalat Zir,Village,Found in geonames w/certainty,129254,27.30399,56.07419,Qalāt-e Pā’īn,,15,shamil_district.txt,شميل / شميلات,SHAMIL / SHAMILaT,District
+Geographic,كلات بالا وزير,Kalāt Bāla and Zīr,Kalat Bala,Village,Found in geonames w/certainty,129453,27.3189,56.0965,,,15,shamil_district.txt,شميل / شميلات,SHAMIL / SHAMILaT,District
+Geographic,كلنكي,Kilingi,Kilingi,Village,Found in geonames w/certainty,129496,26.45782,57.16624,,,2,biyaban.txt,بيابان,Biyaban,District
+Geographic,كاكى,Kāki,Kaki,Town,Found in geonames w/certainty,129569,28.33861,51.52361,,,100,kaki.txt,كاكى,Kaki,Town
+Geographic,كاهوتي,Kāhōti,Kahoti,Unspecified,Found in geonames w/certainty,129623,25.69886,57.82522,,,30,jashk_district.txt,جاشک,Jashk district ,District
+Geographic,كاهور چالن,Kābūrchilān,Kaburchilan,Village,Found in geonames w/certainty,129630,26.3527,57.1439,,,4,biyaban.txt,بيابان,Biyaban,District
+Geographic,كهتك,Kahatak,Kahatak,Unspecified,Found in geonames w/certainty,129648,26.9559,57.1534,,,2,minab_district.txt,ميناب / مينار ,MINAB / MINAU ,District
+Geographic,جاشك,Jāshk ii / Old Jāshk ,Jashk ii / Old Jashk ,Village,Found in geonames w/certainty,130271,25.74028,57.77053,,,200,jashk_II.txt,جاشك,Jashk ii / Old Jashk ,Village
+Geographic,جمرک,Jamarak,Jamarak,Village,Found in geonames w/certainty,130397,27.9585,51.87231,,,35,dashti.txt,دشتي,Dashti,District
+Geographic,كائينك,Gāinak,Gainak,Unspecified,Found in geonames w/certainty,130527,28.7879,51.0691,Jā’īnak,,30,tangistan.txt,تنگستان,TANGISTAN,District
+Geographic,جكين,Jagīn,Jagin,Unspecified,Found in geonames w/certainty,130579,25.68059,58.25302,,,150,jashk_district.txt,جاشک,Jashk district ,District
+Geographic,هون,Hūn,Hun,Unspecified,Found in geonames w/certainty,130865,25.77847,58.5492,,,50,jashk_district.txt,جاشک,Jashk district ,District
+Geographic,هومدان,Hūmdān,Humdan,Village,Found in geonames w/certainty,130868,25.40075,59.66513,,,10,makran.txt,مكران,Makran ,Coast
+Geographic,هيمن,Haimin,Haimin,Unspecified,Found in geonames w/certainty,131334,25.75047,58.62712,,,50,jashk_district.txt,جاشک,Jashk district ,District
+Geographic,حيدري,Haidari,Haidari,Village,Found in geonames w/certainty,131382,29.2796,50.978,,On the north west not the south west of Khurmūj,25,dashti.txt,دشتي,Dashti,District
+Geographic,هشنيز,Hashnīz,Hashniz,Village,Found in geonames w/certainty,131431,27.08088,53.52951,,,70,asuh_darveh.txt,دوره آسوه,asuh (Darveh),Valley
+Geographic,حصار,Hasā,Hasa,Unspecified,Found in geonames w/certainty,131507,25.79025,58.17385,,,100,jashk_district.txt,جاشک,Jashk district ,District
+Geographic,هنجام,Hanjām ,Hanjam ,Island,Found in geonames w/certainty,131544,26.6447,55.8824,,,7,hanjam.txt,هنجام,Hanjam ,Island
+Geographic,حاجي آباد,Hajīābād,Hajiabad,Unspecified,Found in geonames w/certainty,132384,27.17683,56.92811,,,10,minab_district.txt,ميناب / مينار ,MINAB / MINAU ,District
+Geographic,كوشكي,Gōshki,Goshki,Village,Found in geonames w/certainty,132531,26.35769,57.30298,,,20,biyaban.txt,بيابان,Biyaban,District
+Geographic,كوري,Gūri,Guri,Village,Found in geonames w/certainty,132586,26.6312,55.3627,,,12,qishm_island.txt,قشم,QISHM ISLAND ,Island
+Geographic,كور بند,Gavarband,Gavarband,Village,Found in geonames w/certainty,132629,27.3264,56.9795,,,75,shamil_district.txt,شميل / شميلات,SHAMIL / SHAMILaT,District
+Geographic,گورک,Gūrak,Gurak,Unspecified,Found in geonames w/certainty,132645,28.9458,51.0528,,,40,tangistan.txt,تنگستان,TANGISTAN,District
+Geographic,گوهرت,Gōhart,Gohart,Village,Found in geonames w/certainty,132739,25.63048,58.80332,,,30,makran.txt,مكران,Makran ,Coast
+Geographic,كردو,Gōdu,Godu,Village,Found in geonames w/certainty,132759,27.4257,56.5986,,,50,shamil_district.txt,شميل / شميلات,SHAMIL / SHAMILaT,District
+Geographic,كناردون,Kunārdūn,Kunardun,Village,Found in geonames w/certainty,132784,27.1365,53.3013,Gowd-e Konārdān,,20,asuh_darveh.txt,دوره آسوه,asuh (Darveh),Valley
+Geographic,كناري,Gunāri,Gunari,Village,Found in geonames w/certainty,132957,26.3279,57.1656,,,2,biyaban.txt,بيابان,Biyaban,District
+Geographic,كوران,Gurān ,Guran ,Village,Found in geonames w/certainty,132975,26.7218,55.6187,,,30,qishm_island.txt,قشم,QISHM ISLAND ,Island
+Geographic,كلشن,Gulshan,Gulshan,Village,Found in geonames w/certainty,133030,26.84438,54.09621,,,12,gulshan.txt,كلشن ,Gulshan,Valley
+Geographic,كل سرخ,Gul Surkh,Gul Surkh,Village,Found in geonames w/certainty,133157,26.8577,53.8702,,,5,mugam.txt,مكام / مقام,MUGAM / MUQAM,Valley
+Geographic,كيكن,Gaigan,Gaigan,Unspecified,Found in geonames w/certainty,133372,25.81778,57.73555,,,20,jashk_district.txt,جاشک,Jashk district ,District
+Geographic,غويرزة,Ghuwairizeh,Ghuwairizeh,Village,Found in geonames w/certainty,133426,27.2237,52.893,,,6,gabandi.txt,كابندي,Gabandi,Valley
+Geographic,بركه عبّاسي, 'Abbāsi (Birkeh) ,Birkeh Abbasi ,Unspecified,Found in geonames w/certainty,133468,26.737,54.88774,,,10,lingeh_district.txt,لنجه/لنگه,Lingeh/Linjah,District
+Geographic,گير,Gazīr ,Gazir ,Unspecified,Found in geonames w/certainty,133480,26.72672,54.94766,,,150,lingeh_district.txt,لنجه/لنگه,Lingeh/Linjah,District
+Geographic,كزک,Gizak,Gizak,Village,Found in geonames w/certainty,133490,28.3776,51.4548,,,25,dashti.txt,دشتي,Dashti,District
+Geographic,كريشه,Karaisheh,Karaisheh,Village,Found in geonames w/certainty,133536,26.8397,53.77988,Ţahūrī,,20,mugam.txt,مكام / مقام,MUGAM / MUQAM,Valley
+Geographic,كردو,Gardu,Gardu,Unspecified,Found in geonames w/certainty,133555,26.8482,57.0271,Gerdū,,2,minab_district.txt,ميناب / مينار ,MINAB / MINAU ,District
+Geographic,كناوي,Gināwi,Ginawi,Village,Found in geonames w/certainty,133601,28.00494,51.89146,,,10,dashti.txt,دشتي,Dashti,District
+Geographic,كناوي,Kunāvi,Kunavi,Village,Found in geonames w/certainty,133601,28.00494,51.89146,Ganavī,,15,dashti.txt,دشتي,Dashti,District
+Geographic,كدو,Gidu,Gidu,Village,Found in geonames w/certainty,133658,26.3177,57.2793,,,3,biyaban.txt,بيابان,Biyaban,District
+Geographic,كز,Gaz,Gaz,Village,Found in genomes w/uncertainty,133670,26.41483,57.19067,,"Three places with the same name, all near each other. I went with the one closer to the river. ",10,biyaban.txt,بيابان,Biyaban,District
+Geographic,كابندي,Gābandi village,Gabandi village,Village,Found in geonames w/certainty,133852,27.2083,53.0361,Parsian,,30,gabandi.txt,كابندي,Gabandi,Valley
+Geographic,كاو,Gāo,Gao,Village,Found in geonames w/certainty,133853,25.81512,57.50497,,,3,biyaban.txt,بيابان,Biyaban,District
+Geographic,كرو,Girau,Girau,Village,Found in geonames w/certainty,133930,26.5892,57.093,,,20,biyaban.txt,بيابان,Biyaban,District
+Geographic,كرگور,Gargūr,Gargur,Unspecified,Found in geonames w/certainty,134034,28.8712,51.0472,,,50,tangistan.txt,تنگستان,TANGISTAN,District
+Geographic,كاهي,Gāhi,Gahi,Unspecified,Found in geonames w/certainty,134328,28.5462,51.0883,,,5,tangistan.txt,تنگستان,TANGISTAN,District
+Geographic,كجين زير,Gachīn Zīr,Gachin Zir,Village,Found in geonames w/certainty,134368,27.0921,55.8893,Gachīn-e Pā’īn,,20,shamil_district.txt,شميل / شميلات,SHAMIL / SHAMILaT,District
+Geographic,كابريگ,Gābrīg,Gabrig,Unspecified,Found in geonames w/certainty,134407,25.72111,58.46139,,,200,jashk_district.txt,جاشک,Jashk district ,District
+Geographic,فوارس,Fawāris,Fawaris,Village,Found in geonames w/certainty,134758,27.2802,52.831,Fārsī ,,5,gabandi.txt,كابندي,Gabandi,Valley
+Geographic,فقيه حسنان,Faqīh Hasanān,Faqih Hasanan,Village,Found in geonames w/certainty,134886,28.4873,51.2938,,,20,dashti.txt,دشتي,Dashti,District
+Geographic,دودو ,Dūdau (II) ,Dudau (II) ,Unspecified,Found in geonames w/certainty,135656,27.1586,56.8861,,,70,minab_district.txt,ميناب / مينار ,MINAB / MINAU ,District
+Geographic,دودو,Dūdau (I),Dudau (I),Village,Found in geonames w/certainty,135657,27.1159,57.05,,,30,minab_district.txt,ميناب / مينار ,MINAB / MINAU ,District
+Geographic,دم شهر,Dam Shehr,Dam Shehr,Village,Found in geonames w/certainty,135928,27.2704,57.0128,,,20,shamil_district.txt,شميل / شميلات,SHAMIL / SHAMILaT,District
+Geographic,دم نالو,Dam Nālu,Dam Nalu,Village,Found in geonames w/certainty,135960,28.44734,51.52656,,,30,dashti.txt,دشتي,Dashti,District
+Geographic,دودر,Dūdar,Dudar,Unspecified,Found in geonames w/certainty,136030,26.69824,57.12494,,,3,minab_district.txt,ميناب / مينار ,MINAB / MINAU ,District
+Geographic,دوّان,Duvvān ,Duvvan ,Village,Found in geonames w/certainty,136159,26.58112,54.58474,,,100,duvvan.txt,دوّان,Duvvan ,Village
+Geographic,درازي,Darāzi,Darazi,Village,Found in geonames w/certainty,136335,28.62494,51.23781,,,60,dashti.txt,دشتي,Dashti,District
+Geographic,درانگو,Drāngo,Drango,Village,Found in geonames w/certainty,136346,25.41221,59.69669,,,10,makran.txt,مكران,Makran ,Coast
+Geographic,دلبار عامري,Dilhār and 'Āmiri,Dilhar and amiri,Unspecified,Found in genomes w/uncertainty,136379,28.7626,51.0697,Delvār,"Found the Dilhār place (Delvar), not the amiri, but lorimer states that they can be treated as one. Delvar fits the describtion. ",100,tangistan.txt,تنگستان,TANGISTAN,District
+Geographic,دلّالان,Dallālān,Dallalan,Unspecified,Found in geonames w/certainty,136425,27.1603,56.9478,,,4,minab_district.txt,ميناب / مينار ,MINAB / MINAU ,District
+Geographic,ده نو,Dih Nau,Dih Nau,Village,Found in geonames w/certainty,136661,27.4519,52.7364,,,3,gabandi.txt,كابندي,Gabandi,Valley
+Geographic,ده فو,Dih Nau,Dih Nau,Village,Found in geonames w/certainty,136662,27.3444,56.5406,,,30,shamil_district.txt,شميل / شميلات,SHAMIL / SHAMILaT,District
+Geographic,دشتي,Dashti  ,Dashti  ,Village,Found in geonames w/certainty,137219,27.178,53.0047,,,70,gabandi.txt,كابندي,Gabandi,Valley
+Geographic,داروبست,Dārōbast,Darobast,Unspecified,Found in geonames w/certainty,137690,25.72167,58.29139,,,10,jashk_district.txt,جاشک,Jashk district ,District
+Geographic,ديراكو,Dīrāku,Diraku,Village,Found in geonames w/certainty,137717,26.6412,55.3924,,,6,qishm_island.txt,قشم,QISHM ISLAND ,Island
+Geographic, دركوان / دركاهان ,Dargāwan / Dargāhān,Dargawan / Dargahan,Village,Found in geonames w/certainty,137782,26.96316,56.06278,,,30,qishm_island.txt,قشم,QISHM ISLAND ,Island
+Geographic,چارك,Chārak,Charak,Village,Found in geonames w/certainty,138991,28.57665,51.24842,,There are two places with the same name that fits lorimer describtion and are right next to each other. the other geoid is: 6651593,15,dashti.txt,دشتي,Dashti,District
+Geographic,جاه حسين جمال,Husain Jamāl (Chāh-i-),Chah i Husain Jamal ,Village,Found in geonames w/certainty,139490,28.24535,51.46061,,,12,dashti.txt,دشتي,Dashti,District
+Geographic,چاه مبارك,Chāh Mubārak,Chah Mubarak,Village,Found in geonames w/certainty,139550,27.3658,52.7904,,,20,gabandi.txt,كابندي,Gabandi,Valley
+Geographic,چاه چكور,Chakūr (Chāh),Chah Chakur ,Village,Found in geonames w/certainty,139606,27.27743,56.34649,,,20,shamil_district.txt,شميل / شميلات,SHAMIL / SHAMILaT,District
+Geographic,چغاپور,Chaghāpūr,Chaghapur,Village,Found in geonames w/certainty,139770,28.4335,51.4556,,,25,dashti.txt,دشتي,Dashti,District
+Geographic,چغاوار,Chughāwār,Chughawar,Village,Found in geonames w/certainty,139770,28.4335,51.4556,Choghā Pūr,,25,dashti.txt,دشتي,Dashti,District
+Geographic,بو جبرائيل,Jibrāīl (Bū),Bu Jibrail,Village,Found in geonames w/certainty,139896,26.9252,53.5506,,,10,mugam.txt,مكام / مقام,MUGAM / MUQAM,Valley
+Geographic,بطونه,Batūneh,Batuneh,Village,Found in geonames w/certainty,140008,27.85194,51.7921,,,50,dashti.txt,دشتي,Dashti,District
+Geographic,بستانو,Bustānu,Bustanu,Village,Found in geonames w/certainty,140013,27.395,52.7791,,,10,gabandi.txt,كابندي,Gabandi,Valley
+Geographic,بستانو /  بستانو,Bnstāneh / Bustānu,Bnstaneh / Bustanu,Village,Found in geonames w/certainty,140015,27.0806,56.003,Bostānū,,10,shamil_district.txt,شميل / شميلات,SHAMIL / SHAMILaT,District
+Geographic,بردخان كهنه,Burdakhān Kuhneh,Burdakhan Kuhneh,Village,Found in geonames w/certainty,140094,28.03061,51.45751,,,100,dashti.txt,دشتي,Dashti,District
+Geographic,بنگيز,Bunigaz,Bunigaz,Unspecified,Found in geonames w/certainty,140225,28.94646,51.11415,Boneh Gaz,,100,tangistan.txt,تنگستان,TANGISTAN,District
+Geographic,بندرام,Bundrām,Bundram,Village,Found in geonames w/certainty,140300,26.615,57.0918,,,10,biyaban.txt,بيابان,Biyaban,District
+Geographic,بنار,Bunār,Bunar,Village,Found in geonames w/certainty,140318,29.3166,51.0414,Bonār-e Soleymānī,,25,dashtistan.txt,دشتستن,Dashtistan,District
+Geographic,بير,Bīr,Bir,Village,Found in geonames w/certainty,140473,25.49005,59.79094,,,150,makran.txt,مكران,Makran ,Coast
+Geographic,بيلاي,Bailāi,Bailai,Village,Found in geonames w/certainty,140495,26.5325,57.10078,,,10,biyaban.txt,بيابان,Biyaban,District
+Geographic,بيدو,Bīdu ,Bidu ,Unspecified,Found in geonames w/certainty,140556,29.3861,50.7243,,,30,hayat_davud.txt,حيات داود,Hayat davud,District
+Geographic,بركه دوكون,Dūkūn (Birkeh),Birkeh Dukun ,Village,Found in geonames w/certainty,140811,27.2738,52.9346,,,20,gabandi.txt,كابندي,Gabandi,Valley
+Geographic,بركه علي,Ali (Birkeh) ,Birkeh Ali ,Unspecified,Found in geonames w/certainty,140812,26.62083,54.73972,Berkeh-ye ‘Alī,,15,lingeh_district.txt,لنجه/لنگه,Lingeh/Linjah,District
+Geographic,بريز,Birīz,Biriz,Village,Found in geonames w/certainty,140821,26.12837,57.22814,,,20,biyaban.txt,بيابان,Biyaban,District
+Geographic,براگ,Brāg,Brag,Village,Found in geonames w/certainty,140854,25.59889,59.19972,,,300,makran.txt,مكران,Makran ,Coast
+Geographic,بهده,Bihdih,Bihdih,Village,Found in geonames w/certainty,140945,27.108,53.3682,,,80,asuh_darveh.txt,دوره آسوه,asuh (Darveh),Valley
+Geographic,بهال,Bahāl,Bahal,Unspecified,Found in geonames w/certainty,140955,25.69068,57.85751,,,10,jashk_district.txt,جاشک,Jashk district ,District
+Geographic,بازگو,Bāzgar,Bazgar,Village,Found in geonames w/certainty,140998,26.3535,57.1767,,,20,biyaban.txt,بيابان,Biyaban,District
+Geographic,بوردون,Bavirdūn,Bavirdun,Unspecified,Found in geonames w/certainty,141067,26.77498,54.36494,,,60,shibkuh.txt,شيب كوه,SHIBKUH,District
+Geographic,باور,Bāvar,Bavar,Unspecified,Found in geonames w/certainty,141068,26.72248,54.89333,,,4,lingeh_district.txt,لنجه/لنگه,Lingeh/Linjah,District
+Geographic,بستاتين,Basātin,Basatin,Village,Found in geonames w/certainty,141160,27.3852,52.6612,,,7,gabandi.txt,كابندي,Gabandi,Valley
+Geographic,بردستان,Bardistān,Bardistan,Village,Found in geonames w/certainty,141348,27.87327,51.96076,,,30,dashti.txt,دشتي,Dashti,District
+Geographic,بردغون ,Bardghūn ,Bardghun ,Unspecified,Found in geonames w/certainty,141396,26.64711,54.87432,,,30,lingeh_district.txt,لنجه/لنگه,Lingeh/Linjah,District
+Geographic,بارچاه,Bārchāh,Barchah,Unspecified,Found in geonames w/certainty,141396,26.64711,54.87432,,,50,lingeh_district.txt,لنجه/لنگه,Lingeh/Linjah,District
+Geographic,بانزر,Bānzar,Banzar,Unspecified,Found in geonames w/certainty,141533,27.0666,56.9762,Bandzak,"City also called Banzark, likely just added a K, fits the location.",4,minab_district.txt,ميناب / مينار ,MINAB / MINAU ,District
+Geographic,بنود,Banūd,Banud,Village,Found in geonames w/certainty,141544,27.3468,52.7263,,,10,gabandi.txt,كابندي,Gabandi,Valley
+Geographic,بنو بند,Banūband,Banuband,Village,Found in geonames w/certainty,141546,27.3185,56.1918,,,10,shamil_district.txt,شميل / شميلات,SHAMIL / SHAMILaT,District
+Geographic,ريك,RĪG,Rig,Town,Found in geonames w/certainty,141657,29.4879,50.62698,Bandar-e Rīg,,100,rig.txt,ريك,RIG,Town
+Geographic,مقام,Mugām ,Mugam ,Port,Found in geonames w/certainty,141660,26.9652,53.4801,,,20,mugam.txt,مكام / مقام,MUGAM / MUQAM,Valley
+Geographic,لنجه/لنگه,Lingeh/Linjah,Lingeh,District,Found in geonames w/certainty,141665,26.55792,54.88067,,,500,lingeh_district.txt,لنجه/لنگه,Lingeh/Linjah,District
+Geographic,كنگ,Kung,Kung,Town,Found in geonames w/certainty,141666,26.59775,54.93694,,,40,kung.txt,كنگ,Kung,Town
+Geographic,بنك,Banak,Banak,Unspecified,Found in geonames w/certainty,141702,27.871,52.0274,,,50,shibkuh.txt,شيب كوه,SHIBKUH,District
+Geographic,بمبري,Bambari,Bambari,Village,Found in geonames w/certainty,141731,27.2003,53.0238,,,4,gabandi.txt,كابندي,Gabandi,Valley
+Geographic,بلوچي,Balūchi,Baluchi,Unspecified,Found in geonames w/certainty,141753,25.83924,57.61286,,,20,jashk_district.txt,جاشک,Jashk district ,District
+Geographic,بلبلي,Bulbuli,Bulbuli,Unspecified,Found in geonames w/certainty,141769,27.0713,57.0275,Balīlī,,4,minab_district.txt,ميناب / مينار ,MINAB / MINAU ,District
+Geographic,بالك,Balak,Balak,Village,Found in geonames w/certainty,141819,25.67727,59.38372,,,200,makran.txt,مكران,Makran ,Coast
+Geographic,بهمدي,Bahmadi,Bahmadi,Unspecified,Found in geonames w/certainty,141974,25.82814,57.66565,,,10,jashk_district.txt,جاشک,Jashk district ,District
+Geographic,بكاني,Bagāni,Bagani,Village,Found in geonames w/certainty,142174,25.73333,58.36667,,,20,jashk_district.txt,جاشک,Jashk district ,District
+Geographic,بو عسكر,Askar (Bū),Bu askar ,Village,Found in genomes w/uncertainty,142812,27.4181,52.7517,Askarī,"Wrong location, name matches mostly. ",4,gabandi.txt,كابندي,Gabandi,Valley
+Geographic,عربي,Arabi,Arabi,Village,Found in geonames w/certainty,143142,28.7091,51.3275,,,25,dashti.txt,دشتي,Dashti,District
+Geographic,اختر,Akhtar,Akhtar,Unspecified,Found in geonames w/certainty,144353,27.69254,52.22952,,,100,shibkuh.txt,شيب كوه,SHIBKUH,District
+Geographic,خند,Khund,Khund,Village,Found in geonames w/certainty,144364,27.4361,52.75,Akhand ,,15,gabandi.txt,كابندي,Gabandi,Valley
+Geographic,اكابر,Akābir,Akabir,Village,Found in geonames w/certainty,144368,27.2846,52.8266,Akbarī,,5,gabandi.txt,كابندي,Gabandi,Valley
+Geographic,احشام,Ahshām,Ahsham,Village,Found in geonames w/certainty,144478,27.2041,53.055,,,40,gabandi.txt,كابندي,Gabandi,Valley
+Geographic,اهرم,Ahram,Ahram,Town,Found in geonames w/certainty,144484,28.8826,51.2746,,,40,ahram.txt,اهرم,Ahram,Town
+Geographic,اكشكي,Agushki,Agushki,Village,Found in geonames w/certainty,144641,26.079,57.3539,,,10,biyaban.txt,بيابان,Biyaban,District
+Geographic,ابادان,Abādān,Abadan,Village,Found in geonames w/certainty,145234,28.0799,51.76815,,,80,dashti.txt,دشتي,Dashti,District
+Geographic,زكيت,Zikait,Zikait,Unspecified,Found in geonames w/certainty,285877,22.88041,57.75095,,,10,oman_proper.txt,عمان,OMAN PROPER,District
+Geographic,زلفت,Zilaft,Zilaft,Village,Found in geonames w/certainty,285882,22.59144,59.08953,Al 'Uwaynah,,30,khalid_wadi_bani.txt,وادي بني خالد,Khalid (Wadi Bani),Valley
+Geographic,زامه,Zāmmah,Zammah,Village,Found in geonames w/certainty,285898,23.21695,57.40342,,,100,auf_wadi_bani.txt,وادي بني عوف, Auf (Wadi Bani),Valley
+Geographic,ظهر سدره,Dhahar Sidrah ,Dhahar Sidrah ,Unspecified,Found in geonames w/certainty,285903,23.25,58.58333,Z̧ahr Sidrah,,15,maih_wadi.txt,ميح وادي,Maih Wadi,Valley
+Geographic,يتي,Yiti,Yiti,Village,Found in geonames w/certainty,285919,23.53342,58.66669,,,10,masqat_district.txt,مسقط,Masqat,District
+Geographic,واسط,Wāsit,Wasit,Unspecified,Found in geonames w/certainty,285977,23.51716,57.84928,,,20,ma_awal_wadi.txt,وادي معاول,Ma'awal (Wadi),Valley
+Geographic,ودياج,Widaiyāj,Widaiyaj,Unspecified,Found in geonames w/certainty,285997,24.77849,56.45487,Al Wudayyāt / الوديات,,80,shinas_subwilayat.txt,شناص,SHINAS SUB-WILAYAT,Unspecified
+Geographic,مزرع العنوي,Mizra'-al-'Alowi,Mizra al Alowi,Village,Found in geonames w/certainty,286001,23.43213,58.55294,,,30,maih_wadi.txt,ميح وادي,Maih Wadi,Valley
+Geographic,امّ العنه,Umm-al-'lnah,Umm al lnah,Unspecified,Found in geonames w/certainty,286067,24.6125,56.53778,,,5,liwa_subwilayat.txt,لوى,Liwa sub-wilayat,Unspecified
+Geographic,عديبه,Adaibah,Adaibah,Village,Found in geonames w/certainty,286091,23.60126,58.36386,,,4,masqat_district.txt,مسقط,Masqat,District
+Geographic,طيوي,TĪWI / TAIWI ,Tiwi / Taiwi,Village,Found in geonames w/certainty,286110,22.82608,59.25796,,,12,tiwi_village.txt,طيوي,TIWI / TAIWI ,Village
+Geographic,تابتي,Thābiti,Thabiti,Unspecified,Found in geonames w/certainty,286145,22.73276,58.52826,,,13,sharqiyah.txt,شرقيه,SHARQIYAH,District
+Geographic,طيمسا,Taimsa,Taimsa,Village,Found in geonames w/certainty,286153,22.85572,57.4653,,,12,oman_proper.txt,عمان,OMAN PROPER,District
+Geographic,طوّيه,Tuwaiyah,Tuwaiyah,Unspecified,Found in geonames w/certainty,286164,23.39697,57.76928,,,20,hajar_western.txt,حجر,Hajar (Western),District
+Geographic,طريف,Taraif,Taraif,Village,Found in geonames w/certainty,286186,23.74641,57.6216,,,8,liwa_subwilayat.txt,لوى,Liwa sub-wilayat,Unspecified
+Geographic,تنوف,Tanūf,Tanuf,Unspecified,Found in geonames w/certainty,286191,23.05113,57.46398,,,10,oman_proper.txt,عمان,OMAN PROPER,District
+Geographic,تيخا,Taikha,Taikha,Village,Found in geonames w/certainty,286197,23.42881,57.44091,,,60,auf_wadi_bani.txt,وادي بني عوف, Auf (Wadi Bani),Valley
+Geographic,صويحره,Sawaiharah,Sawaiharah,Unspecified,Found in geonames w/certainty,286212,24.31642,56.78289,,,25,sohar_wilayat.txt,صحار,SOHAR WILAYAT,Unspecified
+Geographic,سوري,Suwari,Suwari,Channel,Found in geonames w/certainty,286231,23.60641,56.96905,Sūrī,,4,hawasinah_wadi_al.txt,وادي الحواسنه,Hawasinah (Wadi-al-) ,Valley
+Geographic,حسيفين المزاريع,Hasaifīn-al-Mazārī',Hasaifin al Mazari,Unspecified,Found in genomes w/uncertainty,286238,24.64425,56.50694,Sūr al Mazārī‘,Didn't find Hasaifin al Mazari but Sūr al Mazārī‘ fits the description,12,liwa_subwilayat.txt,لوى,Liwa sub-wilayat,Unspecified
+Geographic,صنب,Sunub,Sunub,Village,Found in geonames w/certainty,286249,23.48708,58.34764,,,10,boshar_wadi.txt,وادي بوشر,Boshar (Wadi),Tract
+Geographic,صنيبع,Sanaiba',Sanaiba,Village,Found in geonames w/certainty,286256,23.19556,57.5575,,,20,kharus_wadi_bani.txt,وادي بني خروص/صوادي بني,Kharus (Wadi Bani),Valley
+Geographic,صليّه,Salaiyah,Salaiyah,Village,Found in geonames w/certainty,286271,23.44493,57.70066,,,10,kharus_wadi_bani.txt,وادي بني خروص/صوادي بني,Kharus (Wadi Bani),Valley
+Geographic,شخبوت,Shakhbōt ,Shakhbot ,Channel,Found in geonames w/certainty,286481,23.69267,56.91595,,,5,hawasinah_wadi_al.txt,وادي الحواسنه,Hawasinah (Wadi-al-) ,Valley
+Geographic,سخاخيط,Shakhākhit,Shakhakhit,Unspecified,Found in geonames w/certainty,286483,23.69863,58.04001,,,30,batinah.txt,باطنه,Batinah,District
+Geographic,شافع,Shāfa',Shafa,Unspecified,Found in geonames w/certainty,286493,22.76197,57.76038,,,8,oman_proper.txt,عمان,OMAN PROPER,District
+Geographic,سيق,Sīq,Siq,Village,Found in geonames w/certainty,286516,22.50958,59.12292,,,20,khalid_wadi_bani.txt,وادي بني خالد,Khalid (Wadi Bani),Valley
+Geographic,سيجه,Saijah,Saijah,Village,Found in geonames w/certainty,286521,23.21138,57.87832,,,30,jabir_wadi_II.txt,وادي بني جابر,Jabir (Wadi Bani),Valley
+Geographic,سيح,Saih,Saih,Village,Found in geonames w/certainty,286531,23.02745,58.01145,,,40,mahram_wadi.txt,وادي محرم,Mahram (Wadi),Valley
+Geographic,سيفم,Saifam,Saifam,Unspecified,Found in geonames w/certainty,286535,22.972,57.13271,,,10,oman_proper.txt,عمان,OMAN PROPER,District
+Geographic,سرور,Sarūr,Sarur,Village,Found in geonames w/certainty,286556,23.35238,58.10751,,,50,samail_wadi.txt,وادي سمائل,SAMAIL (WADI),Valley
+Geographic,سناو,SANĀU,Sanau,Town,Found in geonames w/certainty,286576,22.50114,58.0301,,,20,sanau.txt,سناو,SANAU,Town
+Geographic,سمد,SAMAD TOWN,Samad ,Town,Found in geonames w/certainty,286592,22.8238,58.16262,,,300,samad_town.txt,سمد,SAMAD TOWN,Town
+Geographic,صلّان,Sallān,Sallan,Unspecified,Found in geonames w/certainty,286602,24.3937,56.72721,,,30,sohar_wilayat.txt,صحار,SOHAR WILAYAT,Unspecified
+Geographic,صحم,SAHAM TOWN,Saham ,Town,Found in geonames w/certainty,286647,24.17222,56.88861,,,30,saham_town.txt,صحم,SAHAM TOWN,Town
+Geographic,صدان,Sadān,Sadan,Channel,Found in geonames w/certainty,286673,23.76274,56.93067,,,3,hawasinah_wadi_al.txt,وادي الحواسنه,Hawasinah (Wadi-al-) ,Valley
+Geographic,سبت,Sibt,Sibt,Village,Found in geonames w/certainty,286681,22.4773,59.12452,,,70,khalid_wadi_bani.txt,وادي بني خالد,Khalid (Wadi Bani),Valley
+Geographic,سعادي,Sa'ādi ,Saadi ,Unspecified,Found in geonames w/certainty,286692,23.31219,58.56507,,,40,maih_wadi.txt,ميح وادي,Maih Wadi,Valley
+Geographic,رميس,Rumais,Rumais,Unspecified,Found in geonames w/certainty,286715,23.68386,57.99525,Ar Rumays,,15,batinah.txt,باطنه,Batinah,District
+Geographic,ردّه,Raddah,Raddah,Unspecified,Found in geonames w/certainty,286726,22.50437,58.11703,,,6,sharqiyah.txt,شرقيه,SHARQIYAH,District
+Geographic,بو مباسلي /  رسّه,Rissah / Bū Mubāsili ,Rissah / Bu Mubasili ,Village,Found in geonames w/certainty,286735,23.22656,58.0801,Rissat Bū Mibāslī,,10,saijani_wadi.txt,وادي سيجاني,SAIJANI (WADI),Valley
+Geographic,رجع ,Rija',Rija,Unspecified,Found in geonames w/certainty,286742,23.45973,58.58525,,,20,maih_wadi.txt,ميح وادي,Maih Wadi,Valley
+Geographic,روضه,Rōdhah,Rodhah,Village,Found in geonames w/certainty,286766,22.87285,58.21871,,,20,samad_wadi.txt,وادي سمد,SAMAD (WADI),Valley
+Geographic,شربت,Sharabat,Sharabat,Village,Found in geonames w/certainty,286803,23.27821,58.25203,Rahbiyin,,10,mansah_wadi.txt,وادي منصح,Mansah (Wadi),Valley
+Geographic,مرير الكبيره,Murair-al-Kabīrah,Murair al Kabirah,Unspecified,Found in geonames w/certainty,286842,24.87177,56.41313,Murayr al Maţārīsh,,25,shinas_subwilayat.txt,شناص,SHINAS SUB-WILAYAT,Unspecified
+Geographic,قصبيه يال بريك,Qasbiyat Yāl Braik,Qasbiyat Yal Braik,Village,Found in geonames w/certainty,286896,24.02436,57.05407,,,7,saham_subwilayat.txt,صخم,SAHAM SUBWILAYAT,Unspecified
+Geographic,قصبيه آل بو سعيد,Qasbiyat Āl Bū Sa'īd,Qasbiyat al Bu Said,Village,Found in geonames w/certainty,286900,24.01665,57.06223,,,10,saham_subwilayat.txt,صخم,SAHAM SUBWILAYAT,Unspecified
+Geographic,قلعة العوامر,Awāmir (Qal'at-al-),Qalat al Awamir ,Village,Found in geonames w/certainty,286930,22.82198,57.75441,,,5,oman_proper.txt,عمان,OMAN PROPER,District
+Geographic,شريعة آل بو سعيد,Sharī'at Al Bū Sa'īd,Shari'at Al Bu Said,Village,Found in geonames w/certainty,286955,22.60344,58.18478,,,10,samad_wadi.txt,وادي سمد,SAMAD (WADI),Valley
+Geographic,فزوى / نزوى,NIZWA,Nizwa,Town,Found in geonames w/certainty,286987,22.93333,57.53333,,,600,nizwa.txt,فزوى / نزوى,NIZWA,Town
+Geographic,نقصي,Naqsi,Naqsi,Unspecified,Found in geonames w/certainty,287015,23.10892,58.35386,,,15,tayin_wadi.txt,وادي طايين,TAYIN (WADI),Valley
+Geographic,نفعه,Naf'ah,Nafah,Village,Found in geonames w/certainty,287050,23.39851,58.14395,,,40,mansah_wadi.txt,وادي منصح,Mansah (Wadi),Valley
+Geographic,نبر,Nabar,Nabar,Unspecified,Found in geonames w/certainty,287052,24.56479,56.56188,,,20,liwa_subwilayat.txt,لوى,Liwa sub-wilayat,Unspecified
+Geographic,مطي,Muti,Muti,Unspecified,Found in geonames w/certainty,287064,23.00289,57.77719,,,10,oman_proper.txt,عمان,OMAN PROPER,District
+Geographic,مسلمات,Musilmāt ,Musilmat ,Unspecified,Found in geonames w/certainty,287073,23.42012,57.81124,,,50,ma_awal_wadi.txt,وادي معاول,Ma'awal (Wadi),Valley
+Geographic,نصيب,Nasīb,Nasib,Unspecified,Found in geonames w/certainty,287089,22.72011,58.50833,,,9,sharqiyah.txt,شرقيه,SHARQIYAH,District
+Geographic,مقل,Muqal,Muqal,Village,Found in geonames w/certainty,287123,22.6143,59.09194,,,300,khalid_wadi_bani.txt,وادي بني خالد,Khalid (Wadi Bani),Valley
+Geographic,غرابه,Ghurābah,Ghurabah,Village,Found in geonames w/certainty,287157,23.33242,58.2266,,,2,mansah_wadi.txt,وادي منصح,Mansah (Wadi),Valley
+Geographic, مسفاه,Misfāh,Misfah,Village,Found in geonames w/certainty,287185,23.52135,57.4847,,,4,kharus_wadi_bani.txt,وادي بني خروص/صوادي بني,Kharus (Wadi Bani),Valley
+Geographic,مر,Miss,Miss,Unspecified,Found in geonames w/certainty,287195,23.13308,58.38388,,"Lorimers arabic translation of the place name is wrong, it should be مس. ",150,tayin_wadi.txt,وادي طايين,TAYIN (WADI),Valley
+Geographic,مزرع الحدري,Mizra'-al-Hadri,Mizra al Hadri,Unspecified,Found in geonames w/certainty,287243,23.43487,58.56316,,,35,maih_wadi.txt,ميح وادي,Maih Wadi,Valley
+Geographic,مزرع الغاف,Mizra'-al-Ghāf ,Mizra al Ghaf ,Village,Found in geonames w/certainty,287244,23.23425,58.23163,Mazra‘ al Ghāf,,10,mansah_wadi.txt,وادي منصح,Mansah (Wadi),Valley
+Geographic,مغسر,Maghsar,Maghsar,Village,Found in geonames w/certainty,287255,22.80136,58.12868,Al Masir,,30,samad_wadi.txt,وادي سمد,SAMAD (WADI),Valley
+Geographic,مسلق,Mislaq,Mislaq,Village,Found in geonames w/certainty,287288,22.51631,59.41398,,,8,falaij_wadi.txt,وادي فليج,Falaij (Wadi),Valley
+Geographic,مسكن,MISKIN,Miskin,Village,Found in geonames w/certainty,287289,23.49611,56.83056,,,30,miskin.txt,مسكن,MISKIN,Village
+Geographic,مقنيّات,MAQNĪ YĀT,Maqni Yat,Town,Found in geonames w/certainty,287331,23.38074,56.8776,,,200,maqni_yat.txt,مقنيّات,MAQNi YaT,Town
+Geographic,مقمّا,Maqamma,Maqamma,Village,Found in geonames w/certainty,287335,23.24742,57.31693,,,80,sahtan_wadi.txt,وادي سحتن,SAHTAN (WADI),Valley
+Geographic,منذريّه,Maudharīyah,Maudhariyah,Unspecified,Found in geonames w/certainty,287347,23.34395,58.55229,Al Manz̧arīyah,,20,maih_wadi.txt,ميح وادي,Maih Wadi,Valley
+Geographic,منصور,Mansūr,Mansur,Village,Found in geonames w/certainty,287351,23.51142,57.54947,,,5,fara_wadi.txt,وادي فرع,Fara' (Wadi),Valley
+Geographic,مجزي,Mijzi,Mijzi,Village,Found in geonames w/certainty,287375,23.62717,56.95322,,,20,hawasinah_wadi_al.txt,وادي الحواسنه,Hawasinah (Wadi-al-) ,Valley
+Geographic,مجزي,Mijzi,Mijzi,Village,Found in geonames w/certainty,287376,23.54626,56.66655,,,20,umr_wadi_bani.txt,وادي بني عمر,UMR (WADI BANI),Tributary
+Geographic,محرم,Mahram,Mahram,Village,Found in geonames w/certainty,287394,23.02408,57.99384,,,70,mahram_wadi.txt,وادي محرم,Mahram (Wadi),Valley
+Geographic,محضه,Mahadhah,Mahadhah,Village,Found in geonames w/certainty,287405,24.40052,55.96718,,,300,mahadhah.txt,محضه,Mahadhah,Plain
+Geographic,مهاليل ,Mahālil,Mahalil,Village,Found in geonames w/certainty,287420,23.35515,57.63366,,,10,kharus_wadi_bani.txt,وادي بني خروص/صوادي بني,Kharus (Wadi Bani),Valley
+Geographic,مبرح,Mabrah ,Mabrah ,Unspecified,Found in geonames w/certainty,287447,23.6577,57.1593,,,12,mabrah_wadi.txt,وادي مبرح,Mabrah (Wadi),Valley
+Geographic,معبيله,Ma'abīlah,Maabilah,Unspecified,Found in geonames w/certainty,287458,23.67773,58.13552,,,10,batinah.txt,باطنه,Batinah,District
+Geographic,لنصب,Lansab,Lansab,Village,Found in geonames w/certainty,287488,23.538,58.35449,,,25,boshar_wadi.txt,وادي بوشر,Boshar (Wadi),Tract
+Geographic,كباره,Kubārah,Kubarah,Village,Found in geonames w/certainty,287507,23.0833,56.82101,,,20,ain_wadi_al.txt,وادي العين, Ain (Wadi-al-),Valley
+Geographic,كبد,Kabda,Kabda,Unspecified,Found in geonames w/certainty,287523,22.67897,59.30339,,,100,hajar_eastern.txt,حجر,Hajar (Eastern),Unspecified
+Geographic,خشده,Khishdah,Khishdah,Unspecified,Found in geonames w/certainty,287561,24.21009,56.86044,,,30,sohar_wilayat.txt,صحار,SOHAR WILAYAT,Unspecified
+Geographic,خور الملح,Khor-al-Milh,Khor al Milh,Village,Found in geonames w/certainty,287581,24.03835,57.038,,,8,saham_subwilayat.txt,صخم,SAHAM SUBWILAYAT,Unspecified
+Geographic,قسف,Qasaf,Qasaf,Unspecified,Found in geonames w/certainty,287611,23.91837,57.02161,,,20,batinah.txt,باطنه,Batinah,District
+Geographic,جهنات,Jahanāt,Jahanat,Village,Found in geonames w/certainty,287700,23.5512,56.78028,Kahnāt,,40,umr_wadi_bani.txt,وادي بني عمر,UMR (WADI BANI),Tributary
+Geographic,كحل,Kahal,Kahal,Village,Found in geonames w/certainty,287704,24.44968,55.90973,,,100,mahadhah.txt,محضه,Mahadhah,Plain
+Geographic,ردّه,Raddah,Raddah,Unspecified,Found in geonames w/certainty,287742,22.86084,57.52216,Raddat Albū Sa‘īd,,6,oman_proper.txt,عمان,OMAN PROPER,District
+Geographic,جفار,Jifār,Jifar,Village,Found in geonames w/certainty,287748,23.52768,58.33264,,,50,boshar_wadi.txt,وادي بوشر,Boshar (Wadi),Tract
+Geographic,جردمان,Jardamān,Jardaman,Village,Found in geonames w/certainty,287775,23.23972,58.23417,,,5,mansah_wadi.txt,وادي منصح,Mansah (Wadi),Valley
+Geographic,جمّه,Jammah,Jammah,Town,Found in geonames w/certainty,287784,23.56049,57.55589,,,100,jammah.txt,جمّه,Jammah,Town
+Geographic,طويان جحلوت,Tūyān Jahlūt ,Tuyan Jahlut ,Unspecified,Found in geonames w/certainty,287795,23.3274,58.59775,,,20,maih_wadi.txt,ميح وادي,Maih Wadi,Valley
+Geographic,استال,Istāl,Istal,Village,Found in geonames w/certainty,287818,23.21612,57.55403,,,40,kharus_wadi_bani.txt,وادي بني خروص/صوادي بني,Kharus (Wadi Bani),Valley
+Geographic,عبري, 'Ibri,Ibri,Town,Found in geonames w/certainty,287830,23.22573,56.51572,,,400,ibri.txt,عبري, Ibri,Town
+Geographic,ابرا / برا,Ibra / Bira,Ibra / Bira,District,Found in geonames w/certainty,287832,22.69057,58.53337,,,300,ibra.txt,ابرا / برا,Ibra / Bira,District
+Geographic,حميره,Hamairah,Hamairah,Unspecified,Found in geonames w/certainty,287862,24.69446,56.46639,,,8,liwa_subwilayat.txt,لوى,Liwa sub-wilayat,Unspecified
+Geographic,حلاحل,Halāhil,Halahil,Village,Found in geonames w/certainty,287873,23.73845,57.04436,,,15,hilti_wadi_al.txt,وادي الحلتي ,Hilti (Wadi-al-),Valley
+Geographic,هوب,Hōb ,Hob ,Village,Found in geonames w/certainty,287875,23.32884,57.95374,,,30,jabir_wadi_II.txt,وادي بني جابر,Jabir (Wadi Bani),Valley
+Geographic,فلج الهجاري,Falaj-al-Hijāri,Falaj al Hijari,Village,Found in geonames w/certainty,287911,24.04486,57.03191,,,9,saham_subwilayat.txt,صخم,SAHAM SUBWILAYAT,Unspecified
+Geographic,حفري,Hifri,Hifri,Village,Found in geonames w/certainty,287912,23.7263,57.83802,Al Ḩafrī as Sāḩil,,10,kharus_wadi_bani.txt,وادي بني خروص/صوادي بني,Kharus (Wadi Bani),Valley
+Geographic,حبرا,Hibra,Hibra,Unspecified,Found in geonames w/certainty,287916,23.48952,57.83169,,,200,ma_awal_wadi.txt,وادي معاول,Ma'awal (Wadi),Valley
+Geographic,حزم,Hazam,Hazam,Village,Found in geonames w/certainty,287921,23.55167,57.47617,,,100,hazam.txt,حزم,Hazam,Village
+Geographic,حيلين,Hailain,Hailain,Unspecified,Found in geonames w/certainty,287948,23.6366,57.1186,,,15,mabrah_wadi.txt,وادي مبرح,Mabrah (Wadi),Valley
+Geographic,حيل,Hail,Hail,Village,Found in geonames w/certainty,287977,24.19996,56.22418,,,3,hilti_wadi_al.txt,وادي الحلتي ,Hilti (Wadi-al-),Valley
+Geographic,هيل,Hil,Hil,Village,Found in geonames w/certainty,287981,23.28712,57.92089,,,40,jabir_wadi_II.txt,وادي بني جابر,Jabir (Wadi Bani),Valley
+Geographic,حيبي,Hibi,Hibi,Village,Found in geonames w/certainty,287993,23.91643,56.55417,,,20,hibi.txt,حيبي,Hibi,Village
+Geographic,حوقين ,Hōqain,Hoqain,Village,Found in geonames w/certainty,288010,23.54522,57.33478,,,20,ghafir.txt,وادي بني غافر,Ghafir (WadiBani),Valley
+Geographic,هاط,Hāt,Hat,Village,Found in geonames w/certainty,288024,23.18531,57.41054,,,10,auf_wadi_bani.txt,وادي بني عوف, Auf (Wadi Bani),Valley
+Geographic,غسه,Ghassah,Ghassah,Village,Found in geonames w/certainty,288032,26.24038,56.3174,,,20,falaij_wadi.txt,وادي فليج,Falaij (Wadi),Valley
+Geographic,حرملي,Harmali,Harmali,Channel,Found in geonames w/certainty,288051,23.66779,56.92681,,,30,hawasinah_wadi_al.txt,وادي الحواسنه,Hawasinah (Wadi-al-) ,Valley
+Geographic,حدّ,Hadd,Hadd,Unspecified,Found in geonames w/certainty,288066,24.48278,56.57812,,,8,sohar_wilayat.txt,صحار,SOHAR WILAYAT,Unspecified
+Geographic,راس الحمر,Rās-al-Hamar,Ras al Hamar,Village,Found in geonames w/certainty,288097,23.64356,58.49326,,,60,masqat_district.txt,مسقط,Masqat,District
+Geographic,حمّام العالي,Hammām-al-'Āli,Hammam Al Ali,Village,Found in geonames w/certainty,288109,23.48005,58.32814,,,16,boshar_wadi.txt,وادي بوشر,Boshar (Wadi),Tract
+Geographic,حاجر,Hājir,Hajir,Village,Found in geonames w/certainty,288163,23.38131,58.5174,,,30,maih_wadi.txt,ميح وادي,Maih Wadi,Valley
+Geographic,حضيب,Hadhīb,Hadhib,Unspecified,Found in geonames w/certainty,288188,23.72922,57.74367,,,90,batinah.txt,باطنه,Batinah,District
+Geographic,غيزين,Ghaizain ,Ghaizain ,Channel,Found in geonames w/certainty,288221,23.81339,56.98382,,,30,hawasinah_wadi_al.txt,وادي الحواسنه,Hawasinah (Wadi-al-) ,Valley
+Geographic,غبره,Ghubrah,Ghubrah,Village,Found in geonames w/certainty,288243,23.58912,58.39645,,,3,masqat_district.txt,مسقط,Masqat,District
+Geographic,غيّان,Gbaiyān,Gbaiyan,Unspecified,Found in geonames w/certainty,288261,23.05241,58.6132,,,15,tayin_wadi.txt,وادي طايين,TAYIN (WADI),Valley
+Geographic,غلّه,Ghallah,Ghallah,Village,Found in geonames w/certainty,288300,23.5327,58.38015,,,3,boshar_wadi.txt,وادي بوشر,Boshar (Wadi),Tract
+Geographic,غضفان,Ghadhfān,Ghadhfan,Unspecified,Found in geonames w/certainty,288317,24.47205,56.60195,,,70,sohar_wilayat.txt,صحار,SOHAR WILAYAT,Unspecified
+Geographic,فرفار,Farfār,Farfar,Village,Found in geonames w/certainty,288335,23.76832,56.84869,,,30,umr_wadi_bani.txt,وادي بني عمر,UMR (WADI BANI),Tributary
+Geographic,فليج المشائخ ,Mashāikh (Falaij-al-),Falaij al Mashaikh ,Unspecified,Found in geonames w/certainty,288339,22.13439,59.17275,,,50,ja_alan.txt,جعلان,Ja'alan,District
+Geographic,وادي فليج,Falaij (Wādi),Wadi Falaij ,Unspecified,Found in geonames w/certainty,288340,22.58846,59.4881,,,3,falaij_wadi.txt,وادي فليج,Falaij (Wadi),Valley
+Geographic,فليج,Falaij,Falaij,Unspecified,Found in geonames w/certainty,288341,23.71611,56.905,,,20,batinah.txt,باطنه,Batinah,District
+Geographic,فليج,Falaij,Falaij,Unspecified,Found in geonames w/certainty,288343,22.63235,58.55345,,,200,sharqiyah.txt,شرقيه,SHARQIYAH,District
+Geographic,فتا,Fita,Fita,Village,Found in geonames w/certainty,288357,22.53907,59.38313,Iftā,,40,hajar_eastern.txt,حجر,Hajar (Eastern),Unspecified
+Geographic,فرجات,Firjāt,Firjat,Village,Found in geonames w/certainty,288363,23.35603,58.03913,Al Faljāt,,50,jabir_wadi_II.txt,وادي بني جابر,Jabir (Wadi Bani),Valley
+Geographic,فدا,Fida,Fida,Unspecified,Found in geonames w/certainty,288377,23.50444,56.48596,,,100,dhank_wadi.txt,وادي ضنک,Dhank (Wadi),Valley
+Geographic,فتح الحبوس,Fath-al-Habūs,Fath al Habus,Unspecified,Found in genomes w/uncertainty,288394,22.61656,58.1403,,"The place that better fits lorimers describtion is (عاصمة الحبوس), located on the south east of Mudhaibi, but its geoid is nowhere to be found. The final geoid given is for Al Fath الفتح which is still a plausible choice considering its location",4,sharqiyah.txt,شرقيه,SHARQIYAH,District
+Geographic,فاسقه,Fāsiqah,Fasiqah,Unspecified,Found in geonames w/certainty,288396,24.42222,56.69194,,,35,sohar_wilayat.txt,صحار,SOHAR WILAYAT,Unspecified
+Geographic,فشخ,Fashah,Fashah,Village,Found in geonames w/certainty,288398,23.31035,57.32102,,,20,sahtan_wadi.txt,وادي سحتن,SAHTAN (WADI),Valley
+Geographic,فرفاره,Furfārah,Furfarah,Unspecified,Found in geonames w/certainty,288403,24.70892,56.45805,,,10,liwa_subwilayat.txt,لوى,Liwa sub-wilayat,Unspecified
+Geographic,فرع,Fara',Fara,Village,Found in geonames w/certainty,288408,23.31533,57.48193,,,6,fara_wadi.txt,وادي فرع,Fara' (Wadi),Valley
+Geographic,فنجه,Fanjah,Fanjah,Village,Found in geonames w/certainty,288412,23.45794,58.09861,,,60,samail_wadi.txt,وادي سمائل,SAMAIL (WADI),Valley
+Geographic,فلج القبايل,Falaj-al-Qabāil,Falaj al Qabail,Unspecified,Found in geonames w/certainty,288427,24.42509,56.60743,,,500,sohar_wilayat.txt,صحار,SOHAR WILAYAT,Unspecified
+Geographic,فلج المراغه,Falaj-al-Marāghah ,Falaj al Maraghah ,Village,Found in geonames w/certainty,288436,23.17925,57.90888,,,15,mahram_wadi.txt,وادي محرم,Mahram (Wadi),Valley
+Geographic,فلج,Falaj,Falaj,Unspecified,Found in geonames w/certainty,288438,22.70644,56.84527,,,10,oman_proper.txt,عمان,OMAN PROPER,District
+Geographic,ضم,Dham,Dham,Village,Found in geonames w/certainty,288475,23.22868,57.06095,,,30,ain_wadi_al.txt,وادي العين, Ain (Wadi-al-),Valley
+Geographic,ديل يال بريك,Dīl Yāl Braik,Dil Yal Braik,Village,Found in geonames w/certainty,288493,24.07832,56.98067,,,6,saham_subwilayat.txt,صخم,SAHAM SUBWILAYAT,Unspecified
+Geographic,ديل يال عبد السلام,Dil Yāl 'Abdas-Salām,Dil Yal Abdas Salam,Village,Found in geonames w/certainty,288494,24.07198,56.95605,,,8,saham_subwilayat.txt,صخم,SAHAM SUBWILAYAT,Unspecified
+Geographic,دهاس ,Dihās,Dihas,Village,Found in geonames w/certainty,288500,23.41853,57.34763,,,1000,ghafir.txt,وادي بني غافر,Ghafir (WadiBani),Valley
+Geographic,ديدو,Dīdu ,Didu ,Unspecified,Found in genomes w/uncertainty,288505,22.12694,59.2545,,"Didn't find the village, the geoid is for a valley with the same name and is near the area described.",40,ja_alan.txt,جعلان,Ja'alan,District
+Geographic,دبه,Dibah,Dibah,Village,Found in geonames w/certainty,288509,25.63333,56.3,,,20,dibah.txt,دبه ,Dibah,Village
+Geographic,دوّه,Dawwah,Dawwah,Village,Found in geonames w/certainty,288510,20.54523,58.80514,,,40,khalid_wadi_bani.txt,وادي بني خالد,Khalid (Wadi Bani),Valley
+Geographic,دوانج,Diwānij,Diwanij,Unspecified,Found in geonames w/certainty,288555,24.58278,56.55639,,,10,liwa_subwilayat.txt,لوى,Liwa sub-wilayat,Unspecified
+Geographic,دارس,Dāris,Daris,Village,Found in geonames w/certainty,288561,23.57278,57.44536,,,5,fara_wadi.txt,وادي فرع,Fara' (Wadi),Valley
+Geographic,ضنک,Dhank,Dhank,Town,Found in geonames w/certainty,288575,23.55054,56.25725,,,80,dhank_town.txt,ضنک,Dhank,Town
+Geographic,بوه,Buwah,Buwah,Unspecified,Found in geonames w/certainty,288610,23.49282,58.0409,,,30,hajar_western.txt,حجر,Hajar (Western),District
+Geographic,بديعه,Badai' ah,Badaiah,Channel,Found in geonames w/certainty,288656,23.72106,56.90346,,,5,hawasinah_wadi_al.txt,وادي الحواسنه,Hawasinah (Wadi-al-) ,Valley
+Geographic,بو بقره,Bū Baqarah,Bu Baqarah,Unspecified,Found in geonames w/certainty,288661,24.86801,56.40387,,,10,shinas_subwilayat.txt,شناص,SHINAS SUB-WILAYAT,Unspecified
+Geographic,بيعك,Bī'aik,Biaik,Village,Found in geonames w/certainty,288663,23.8431,56.78263,,,60,shafan_wadi.txt,وادي شافان,SHAFAN (WADI),Valley
+Geographic,بسيا,Bisya,Bisya,Unspecified,Found in geonames w/certainty,288674,22.72785,57.24534,,,40,oman_proper.txt,عمان,OMAN PROPER,District
+Geographic,بلاد سيت,Sait (Bilād),Bilad Sait ,Unspecified,Found in geonames w/certainty,288708,23.06511,57.26585,,,6,oman_proper.txt,عمان,OMAN PROPER,District
+Geographic,منح,Manah,Manah,Town,Found in geonames w/certainty,288709,22.79203,57.60593,,,30,manah.txt,منح,Manah,Town
+Geographic,بلد بني بو حسن ,Hasan (Bald bani bu),Bald Bani Bu Hasan ,Town,Found in geonames w/certainty,288710,22.08167,59.28565,,,250,hasan_balad_bani_bu.txt,بلد بني بو حسن ,Hasan (Bald bani bu),Town
+Geographic,بلد بني بو علي, 'Ali (Bald Bani Bū) ,Bald Bani Bu Ali,Settlement,Found in geonames w/certainty,288711,22.01318,59.32556,,,2000,ali_balad_bani_bu.txt,بلد بني بو علي, Ali (Bald Bani Bu) ,Settlement
+Geographic,بيت الفلج,Bait-al-Falaj ,Bait al Falaj ,Village,Found in geonames w/certainty,288752,23.6062,58.54071,,,60,bait_al_falaj_wadi.txt,وادي بيت الفلج,Bait-al-Falaj (Wadi),Valley
+Geographic,بيعه,Bai'ah,Baiah,Village,Found in geonames w/certainty,288761,23.01594,58.02207,,,20,mahram_wadi.txt,وادي محرم,Mahram (Wadi),Valley
+Geographic,بات,Bāt,Bat,Village,Found in geonames w/certainty,288780,23.25575,56.74508,,,30,sharsah_wadi.txt,وادي شرصه,SHARSAH (WADI),Valley
+Geographic,بركه,Barkah,Barkah,Town,Found in geonames w/certainty,288789,23.67872,57.88605,,,700,barkah.txt,بركه,Barkah,Town
+Geographic,افلاج بني قتب,Aflāj Bani Qitab,Aflaj Bani Qitab,Unspecified,Found in geonames w/certainty,288830,23.41611,56.23028,,,400,dhahirah.txt,ظاهره,Dhahirah,District
+Geographic,حيل بني هنا,Hail BaniHina,Hail Bani Hina,Village,Found in geonames w/certainty,288858,23.12598,56.95981,,,25,ain_wadi_al.txt,وادي العين, Ain (Wadi-al-),Valley
+Geographic,بني حبيب,Habīb (Bani),Bani Habib ,Valley,Found in geonames w/certainty,288864,23.07797,57.60673,,,15,habib_bani.txt,بني حبيب,Habib (Bani),Valley
+Geographic,وادي بني بطاش,Battāsh (Wādi Bani),Wadi Bani Battash,Valley,Found in geonames w/certainty,288874,23.16699,58.85253,,,200,battash_wadi_bani.txt,وادي بني بطاش,Battash (Wadi Bani),Valley
+Geographic,بهله,Bahlah,Bahlah,Town,Found in geonames w/certainty,288899,22.97886,57.3047,,,300,bahlah.txt,بهله,Bahlah,Town
+Geographic,عيقا,Aiqa,Aiqa,Unspecified,Found in geonames w/certainty,288915,22.56615,59.54469,Al ‘Ayjah,,15,sur.txt,صور / سور,SUR,Town
+Geographic,عوابي,Awābi,Awabi,Town,Found in geonames w/certainty,288935,23.30611,57.53111,,,100,awabi.txt,عوابي,Awabi,Town
+Geographic,لثيبات,Lithaibāt,Lithaibat,Village,Found in geonames w/certainty,288944,24.09086,56.43128,,,8,hilti_wadi_al.txt,وادي الحلتي ,Hilti (Wadi-al-),Valley
+Geographic,سويق,SUWAIQ,Suwaiq,Town,Found in geonames w/certainty,288955,23.84944,57.43861,,,100,suwaiq.txt,سويق,SUWAIQ,Town
+Geographic,سنينه,Sanainah,Sanainah,Unspecified,Found in geonames w/certainty,288958,23.6065,55.95448,,,200,dhahirah.txt,ظاهره,Dhahirah,District
+Geographic,سليف,Salaif,Salaif,Village,Found in geonames w/certainty,288960,23.19686,56.52266,,,40,ain_wadi_al.txt,وادي العين, Ain (Wadi-al-),Valley
+Geographic,سديره,Sadairah,Sadairah,Unspecified,Found in geonames w/certainty,288962,22.57867,58.01456,,,400,sharqiyah.txt,شرقيه,SHARQIYAH,District
+Geographic,صعره,Su'arah,Suarah,Village,Found in geonames w/certainty,288979,24.25,55.78389,Şa‘rā’ al Qadīmah,,100,baraimi_oasis.txt,بريمي,Baraimi Oasis,Oasis
+Geographic,رستاق,RUSTĀQ,Rustaq,Village,Found in geonames w/certainty,289011,23.39083,57.42444,,,240,rustaq.txt,رستاق,RUSTAQ,Village
+Geographic,عقر,Aqr,Aqr,Unspecified,Found in geonames w/certainty,289038,24.80935,56.43813,,,8,shinas_subwilayat.txt,شناص,SHINAS SUB-WILAYAT,Unspecified
+Geographic,عقيل,Aqīl,Aqil,Unspecified,Found in geonames w/certainty,289040,22.7828,57.85039,,,40,oman_proper.txt,عمان,OMAN PROPER,District
+Geographic,وادي عندام, 'Andām (Wādi),Wadi Andam,Valley,Found in geonames w/certainty,289066,21.8955,58.0059,,,200,andam_wadi.txt,وادي عندام, Andam (Wadi),Valley
+Geographic, عمق,Amq,Amq,Village,Found in geonames w/certainty,289074,23.28653,57.33182,,,10,sahtan_wadi.txt,وادي سحتن,SAHTAN (WADI),Valley
+Geographic,وقبه,Wuqbah,Wuqbah,Village,Found in geonames w/certainty,289092,23.87376,56.40843,,,200,ahin_wadi.txt,وادي عاهن, ahin (Wadi) ,Valley
+Geographic,وقبه,Wuqbah,Wuqbah,Unspecified,Found in geonames w/certainty,285987,23.66667,56.36667,,,60,dhank_wadi.txt,وادي ضنک,Dhank (Wadi),Valley
+Geographic,وهره,Wahrah,Wahrah,Village,Found in geonames w/certainty,289093,23.29511,56.68615,,,15,sharsah_wadi.txt,وادي شرصه,SHARSAH (WADI),Valley
+Geographic,الوهيبه,Wahībah,Wahibah,Village,Found in geonames w/certainty,289095,24.22861,56.83694,,,50,sohar_wilayat.txt,صحار,SOHAR WILAYAT,Unspecified
+Geographic,وافي,WĀFI,Wafi,Village,Found in geonames w/certainty,289098,22.16361,59.235,,,200,wafi.txt,وافي,WAFI,Village
+Geographic,سور القرط,Qarat (Sūr-ala-),Sur-ala-Qarat ,Unspecified,Found in geonames w/certainty,289117,23.78213,57.53388,Al Qarat,,40,batinah.txt,باطنه,Batinah,District
+Geographic,جيله,Jailah,Jailah,Village,Found in geonames w/certainty,289125,23.3519,58.01757,,,60,jabir_wadi_II.txt,وادي بني جابر,Jabir (Wadi Bani),Valley
+Geographic,قصميتن,Qasmītain,Qasmitain,Village,Found in geonames w/certainty,289126,23.28042,57.46539,Al Qaşmitayn,,15,auf_wadi_bani.txt,وادي بني عوف, Auf (Wadi Bani),Valley
+Geographic,قابل,Qābil,Qabil,Unspecified,Found in geonames w/certainty,289142,22.571,58.69472,,,30,sharqiyah.txt,شرقيه,SHARQIYAH,District
+Geographic,مضيرب,Mudhairib,Mudhairib,Unspecified,Found in geonames w/certainty,289154,22.61345,58.66766,,,40,sharqiyah.txt,شرقيه,SHARQIYAH,District
+Geographic,مضيبي,MUDHAIBI,Mudhaibi,Town,Found in geonames w/certainty,289156,22.57032,58.12115,,,100,mudhaibi.txt,مضيبي,MUDHAIBI,Town
+Geographic,مصنعه,Masna'ah,Masnaah,Town,Found in geonames w/certainty,289164,23.77997,57.64014,,,90,masna_ah.txt,مصنعه,Masna'ah,Town
+Geographic,خوير,Khuwair,Khuwair,Village,Found in geonames w/certainty,289176,23.59869,58.4262,Al Khuwayr,"I could choose the wadi, well, or neighbourhood, I went with the well as it felt to be the most likely location of the village",3,masqat_district.txt,مسقط,Masqat,District
+Geographic,خفيجي,Khafaiji,Khafaiji,Unspecified,Found in geonames w/certainty,289180,23.39843,58.52308,,,8,maih_wadi.txt,ميح وادي,Maih Wadi,Valley
+Geographic,خضروين,Khadhrawain,Khadhrawain,Unspecified,Found in geonames w/certainty,289195,24.85444,56.40333,,,20,shinas_subwilayat.txt,شناص,SHINAS SUB-WILAYAT,Unspecified
+Geographic,كامل,Kāmil,Kamil,Unspecified,Found in geonames w/certainty,289203,22.21684,59.20093,,,40,ja_alan.txt,جعلان,Ja'alan,District
+Geographic,عزّ,Izz,Izz,Unspecified,Found in geonames w/certainty,289223,22.55116,58.68637,,,150,sharqiyah.txt,شرقيه,SHARQIYAH,District
+Geographic,حسيفين,Hasaifīn,Hasaifin,Unspecified,Found in geonames w/certainty,289234,24.63222,56.52806,,,10,liwa_subwilayat.txt,لوى,Liwa sub-wilayat,Unspecified
+Geographic,حيال,Hiyāl,Hiyal,Unspecified,Found in geonames w/certainty,289245,23.49236,57.00401,,,15,mabrah_wadi.txt,وادي مبرح,Mabrah (Wadi),Valley
+Geographic,حزم,Hazam,Hazam,Unspecified,Found in geonames w/certainty,289256,22.71543,58.51816,,,25,sharqiyah.txt,شرقيه,SHARQIYAH,District
+Geographic, حمرة العبريين / حمره,Hamrah / Hamrat-al- 'Abrlyin,Hamrah / Hamrat-al-Abrlyin,Unspecified,Found in geonames w/certainty,289277,23.11519,57.29143,Al Ḩamrā’,,10,oman_proper.txt,عمان,OMAN PROPER,District
+Geographic,غيز,Ghaiz,Ghaiz,Village,Found in geonames w/certainty,289294,23.76208,56.77895,,,20,umr_wadi_bani.txt,وادي بني عمر,UMR (WADI BANI),Tributary
+Geographic,غويسه,Ghuwaisah,Ghuwaisah,Village,Found in geonames w/certainty,289295,24.17453,56.86196,,,80,saham_subwilayat.txt,صخم,SAHAM SUBWILAYAT,Unspecified
+Geographic,غريفة,Gharaifah,Gharaifah,Village,Found in geonames w/certainty,289296,23.98833,56.48583,Ghadhaifah,,100,ahin_wadi.txt,وادي عاهن, ahin (Wadi) ,Valley
+Geographic,بريمي,Baraimi village,Baraimi village,Village,Found in geonames w/certainty,289317,24.25088,55.79312,,,100,baraimi_village.txt,بريمي,Baraimi village,Village
+Geographic,بريمي,Baraimi oasis,Baraimi oasis,Oasis,Found in geonames w/certainty,289318,24.23528,55.75222,,,550,baraimi_oasis.txt,بريمي,Baraimi Oasis,Oasis
+Geographic,بليده,Bilaidah,Bilaidah,Unspecified,Found in geonames w/certainty,289321,24.84157,56.41588,,,7,shinas_subwilayat.txt,شناص,SHINAS SUB-WILAYAT,Unspecified
+Geographic,بير,Bīr,Bir,Village,Found in geonames w/certainty,289323,23.37135,57.97176,,,20,jabir_wadi_II.txt,وادي بني جابر,Jabir (Wadi Bani),Valley
+Geographic,حممت,Himamt,Himamt,Village,Found in geonames w/certainty,289344,23.14145,57.84472,Al Ayn,There was a name change after a spring emerged: https://www.atheer.om/archives/561904/%D8%A7%D9%84%D8%B9%D9%8A%D9%86-%D9%82%D8%B1%D9%8A%D8%A9-%D8%AC%D9%85%D9%8A%D9%84%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9/,10,samail_wadi.txt,وادي سمائل,SAMAIL (WADI),Valley
+Geographic,اسرار بني عمر,Asrār Bani'Umr,Asrar Bani Umr,Unspecified,Found in geonames w/certainty,289356,24.60037,56.53595,,,12,liwa_subwilayat.txt,لوى,Liwa sub-wilayat,Unspecified
+Geographic,اسرار بني سعد,Asrār Bani Sa'ad,Asrar Bani Saad,Unspecified,Found in geonames w/certainty,289357,24.58714,56.52919,,,10,liwa_subwilayat.txt,لوى,Liwa sub-wilayat,Unspecified
+Geographic,عراقي,Arāqi,Araqi,Village,Found in geonames w/certainty,289363,23.27993,56.54834,,,150,araqi.txt,عراقي, Araqi ,Village
+Geographic,يحمدي,Yahmadi,Yahmadi,Unspecified,Found in geonames w/certainty,289378,22.76726,58.50126,,,25,sharqiyah.txt,شرقيه,SHARQIYAH,District
+Geographic,عذفين, 'Adhfain,Adhfain,Village,Found in geonames w/certainty,289381,22.56821,59.11231,,,70,khalid_wadi_bani.txt,وادي بني خالد,Khalid (Wadi Bani),Valley
+Geographic,ابيض,Abyadh,Abyadh,Village,Found in geonames w/certainty,289383,23.46556,57.66611,,,70,kharus_wadi_bani.txt,وادي بني خروص/صوادي بني,Kharus (Wadi Bani),Valley
+Geographic,عبله, 'Ablah,Ablah,Village,Found in geonames w/certainty,289385,24.08404,56.47017,,,5,hilti_wadi_al.txt,وادي الحلتي ,Hilti (Wadi-al-),Valley
+Geographic,لاجال,Lājāl (Wādi) ,Wadi Lajal,Valley,Found in geonames w/certainty,289399,23.59126,57.92411,,,100,lajal_wadi.txt,لاجال,Lajal (Wadi) ,Valley
+Geographic,افلاج,Aflāj,Aflaj,Unspecified,Found in geonames w/certainty,289415,22.38548,58.21303,,,60,sharqiyah.txt,شرقيه,SHARQIYAH,District
+Geographic,آفي,Afi,Afi,Unspecified,Found in geonames w/certainty,289417,23.44183,57.80764,,,100,ma_awal_wadi.txt,وادي معاول,Ma'awal (Wadi),Valley
+Geographic,دريز,Darīz,Dariz,Unspecified,Found in geonames w/certainty,289426,23.31784,56.61501,,,10,kabir_wadi_al.txt,وادي الكبير,Kabir (Wadi-al-),Valley
+Geographic,سميسمه,SUMAISMAH,Sumaismah,Village,Found in geonames w/certainty,289625,25.57823,51.48319,,,70,sumaismah.txt,سميسمه,SUMAISMAH,Village
+Geographic,الضائن,Dha'āin,Dhaain,Village,Found in geonames w/certainty,289847,25.57744,51.48306,,,60,dha_ain.txt,الضائن,Dha'ain,Village
+Geographic,الرويس,RUWAIS,Ruwais,Village,Found in geonames w/certainty,289884,26.13978,51.21493,,,20,ruwais.txt,الرويس,RUWAIS,Village
+Geographic,لوسيل,Lusail,Lusail,Village,Found in geonames w/certainty,289910,25.4908,51.48439,,,70,lusail.txt,لوسيل,Lusail,Village
+Geographic,الوكره,WAKRAH,Wakrah,Town,Found in geonames w/certainty,289915,25.17151,51.60337,,,150,wakrah.txt,الوكره,WAKRAH,Town
+Geographic,خور حسّان / خوير,Hassān (Khor) /Khu-wair,Khor Hassan  / Khu-wair,Village,Found in geonames w/certainty,289949,26.06869,51.0839,,,20,hassan_khor.txt,خور حسّان / خوير,Hassan (Khor) / Khu-wair,Village
+Geographic,خور شقيق,SHAQĪQ (KHOR),Khor Shaqiq ,Village,Found in geonames w/certainty,289962,25.68389,51.50583,,,100,shaqiq_khor.txt,خور شقيق,SHAQIQ (KHOR),Village
+Geographic,الذخيره,Dhakhīrah,Dhakhirah,Village,Found in geonames w/certainty,290025,25.73201,51.54377,,,10,dhakhirah.txt,الذخيره,Dhakhirah,Village
+Geographic,الدوحه,Dōhah,Dohah,Town,Found in geonames w/certainty,290030,25.28545,51.53096,,,800,dohah.txt,الدوحة,Dohah,Town
+Geographic,البحرين,Bahrain principality,Bahrain principality,Principality,Found in geonames w/certainty,290291,26.03333,50.55,,,150,bahrain_principality.txt,البحرين,Bahrain principality,Principality
+Geographic,امّ القیوین,QAIWAIN (UMM-AL-),Umm Al Qaiwain,Town,Found in geonames w/certainty,290594,25.56473,55.55517,,,720,qaiwain_umm_al_town.txt,امّ القیوین,QAIWAIN (UMM-AL-),Town
+Geographic,طيّبه,Taiyibah,Taiyibah,Unspecified,Found in geonames w/certainty,290664,25.41228,56.17075,,,10,ham_wadi.txt,وادي حام,Ham (Wadi),Valley
+Geographic,سيجي,Siji,Siji,Unspecified,Found in geonames w/certainty,290759,25.24764,56.07719,,,10,ham_wadi.txt,وادي حام,Ham (Wadi),Valley
+Geographic,شمل,Shimil,Shimil,Village,Found in geonames w/certainty,290795,25.8178,56.01088,,,50,sir.txt,صير,SIR,Unspecified
+Geographic,شرم,Sharam,Sharam,Village,Found in geonames w/certainty,290820,25.47078,56.35319,,,4,shamailiyah.txt,الشميليّه,SHAMAILIYAH,Tract
+Geographic,صفد,Sufad,Sufad,Hamlet,Found in geonames w/certainty,290975,25.22314,56.29944,,,3,shamailiyah.txt,الشميليّه,SHAMAILIYAH,Tract
+Geographic,راس الخيمه,Khaimah (Rās-al-),Ras al Khaimah ,Town,Found in geonames w/certainty,291074,25.78953,55.9432,,,130,khaimah_ras_al_town.txt,راس الخيمه,Khaimah (Ras-al-),Town
+Geographic,راس الخيمه,Khaimah (Rās-al-),Ras al Khaimah ,District,Found in geonames w/certainty,291075,25.66667,56,,,10,khaimah_ras_al_district.txt,راس الخيمه,Khaimah (Ras-al-),District
+Geographic,رحى,Raha,Raha,Unspecified,Found in geonames w/certainty,291103,24.87639,56.2175,,,5,qor_wadi_al.txt,وادي الغور,QOR (WADI-AL-),Valley
+Geographic,قصيدات,Qasaidāt,Qasaidat,Village,Found in geonames w/certainty,291124,25.77461,55.97002,,,10,sir.txt,صير,SIR,Unspecified
+Geographic,قدفع,Qidfa',Qidfa,Unspecified,Found in geonames w/certainty,291155,25.30426,56.37034,,,60,shamailiyah.txt,الشميليّه,SHAMAILIYAH,Tract
+Geographic,قطاره,Qatārah,Qatarah,Village,Found in geonames w/certainty,291159,24.25993,55.75566,,,60,baraimi_oasis.txt,بريمي,Baraimi Oasis,Oasis
+Geographic,مربح,Marbah,Marbah,Village,Found in geonames w/certainty,291339,25.27623,56.36256,,,15,shamailiyah.txt,الشميليّه,SHAMAILIYAH,Tract
+Geographic,مسافي,Masāfi,Masafi,Unspecified,Found in geonames w/certainty,291501,25.30129,56.16531,,,20,ham_wadi.txt,وادي حام,Ham (Wadi),Valley
+Geographic,لوليّه,Lūlaiyah,Lulaiyah,Village,Found in geonames w/certainty,291598,25.39258,56.35464,,,40,shamailiyah.txt,الشميليّه,SHAMAILIYAH,Tract
+Geographic,خت,Khatt,Khatt,Village,Found in geonames w/certainty,291708,25.61729,56.01113,,,20,jiri.txt,جري,Jiri,Unspecified
+Geographic,جميره,Jumairah ,Jumairah ,Village,Found in geonames w/certainty,291775,25.20795,55.24969,,,5,dibai_principality.txt,دبي,Dibai principality,Principality
+Geographic,اذن,Adhan,Adhan,Village,Found in geonames w/certainty,291840,25.46012,56.01256,,,15,jiri.txt,جري,Jiri,Unspecified
+Geographic,هيلي,Hili,Hili,Village,Found in geonames w/certainty,291902,24.28473,55.7633,,,40,baraimi_oasis.txt,بريمي,Baraimi Oasis,Oasis
+Geographic,وادي حتّى,Hatta (wādi),Wadi Hatta ,Valley,Found in geonames w/certainty,291938,24.78465,56.45878,,,50,hatta.txt,وادي حتّى,Hatta (wadi),Valley
+Geographic,جزيرة الحمرا,Hamra (Jaziratal-),Jazirat al Hamra ,Village,Found in geonames w/certainty,291980,25.70361,55.79556,,,100,hamra_jazirat_al.txt,جزيرة الحمرا,Hamra (Jaziratal-),Village
+Geographic,غبّ,Ghubb,Ghubb,Village,Found in geonames w/certainty,292083,25.80529,55.98003,,,18,sir.txt,صير,SIR,Unspecified
+Geographic,صفني,Sfuni,Sfuni,Unspecified,Found in geonames w/certainty,292173,25.1707,56.10159,Isfani,"Geonames ID is for fay, not Isfani, but it looks like the city went in wrong in Geonames. Def. named Isfani",30,ham_wadi.txt,وادي حام,Ham (Wadi),Valley
+Geographic,فلج آل علي,Falaj Āl 'Ali,Falaj al Ali,Town,Found in geonames w/certainty,292202,25.35401,55.85332,,,50,qaiwain_umm_al_town.txt,امّ القیوین,QAIWAIN (UMM-AL-),Town
+Geographic,دبي,Dibai town,Dibai ,Town,Found in geonames w/certainty,292223,25.07725,55.30927,,,1650,dibai_town.txt,دبي ,Dibai town,Town
+Geographic,شارجه,SHĀRJAH TOWN,Sharjah ,Town,Found in geonames w/certainty,292673,25.31763,55.44057,,,500,sharjah_town.txt,شارجه,SHARJAH TOWN,Town
+Geographic,الشعم,SHA'AM,Shaam,Village,Found in geonames w/certainty,292674,26.0279,56.08352,,,30,sha_am.txt,الشعم,SHA'AM,Village
+Geographic,عسمه,Asimah,Asimah,Unspecified,Found in geonames w/certainty,292680,25.39831,56.15073,,,20,ham_wadi.txt,وادي حام,Ham (Wadi),Valley
+Geographic,رمس,RAMS,Rams,Village,Found in geonames w/certainty,292692,25.87658,56.01862,,,20,rams.txt,رمس,RAMS,Village
+Geographic,قريّه,Qaraiyah,Qaraiyah,Village,Found in geonames w/certainty,292761,25.23779,56.36128,,,20,shamailiyah.txt,الشميليّه,SHAMAILIYAH,Tract
+Geographic,جيمي,Jīmi,Jimi,Village,Found in geonames w/certainty,292766,24.24914,55.74582,,,60,baraimi_oasis.txt,بريمي,Baraimi Oasis,Oasis
+Geographic,معترض,Ma'ataradh,Maataradh,Village,Found in geonames w/certainty,292777,24.219,55.73989,,,40,baraimi_oasis.txt,بريمي,Baraimi Oasis,Oasis
+Geographic,خان,Khān,Khan,Village,Found in geonames w/certainty,292826,25.33141,55.35901,,,115,khan.txt,خان,Khan,Village
+Geographic,حيره,Hair,Hair,Village,Found in geonames w/certainty,292850,25.38148,55.41955,,,40,sharjah_principality.txt,شارجه,SHARJAH ,Principality
+Geographic,حيل,Hail,Hail,Village,Found in geonames w/certainty,292854,25.70498,55.98701,,,20,sir.txt,صير,SIR,Unspecified
+Geographic,حمريّه,Hamrīyah,Hamriyah,Village,Found in geonames w/certainty,292856,25.47819,55.53377,,,40,hamriyah.txt,حمريّه,Hamriyah,Village
+Geographic,غرفه,Gharfah,Gharfah,Village,Found in geonames w/certainty,292871,25.12496,56.35381,,,30,shamailiyah.txt,الشميليّه,SHAMAILIYAH,Tract
+Geographic,فليّه,Falaiyah,Falaiyah,Village,Found in geonames w/certainty,292877,25.73481,55.98284,,,10,sir.txt,صير,SIR,Unspecified
+Geographic,فرع,Fara',Fara,Unspecified,Found in geonames w/certainty,292885,25.4143,56.09123,,,10,ham_wadi.txt,وادي حام,Ham (Wadi),Valley
+Geographic,فحلين,Fahlain,Fahlain,Village,Found in geonames w/certainty,292888,25.68412,55.96749,,,25,sir.txt,صير,SIR,Unspecified
+Geographic,بثنه,Bithnah ,Bithnah ,Unspecified,Found in geonames w/certainty,292898,25.18951,56.23516,,,15,ham_wadi.txt,وادي حام,Ham (Wadi),Valley
+Geographic,عين ظواهر,Ain Dhawāhir,Ain Dhawahir,Village,Found in geonames w/certainty,292913,24.19167,55.76056,Al Ain,,150,baraimi_oasis.txt,بريمي,Baraimi Oasis,Oasis
+Geographic,عجمان, 'Ajmān town,Ajman ,Town,Found in geonames w/certainty,292932,25.40177,55.47878,,,60,ajman_town.txt,عجمان, Ajman town,Town
+Geographic,ابو ظبي,Abu Dhabi ,Abu Dhabi ,Town,Found in geonames w/certainty,292968,24.45118,54.39696,,,750,dhabi_town.txt,ابو ظبي,Abu Dhabi ,Town
+Geographic,بو موسى,MŪSA (BŪ),Bu Musa,Island,Found in geonames w/certainty,292983,25.875,55.03,,,4,musa_bu.txt,بو موسى,MUSA (Bu),Island
+Geographic,كرازو,Gurāzu,Gurazu,Unspecified,Found in geonames w/certainty,381537,27.05112,57.00365,Gorāzū’īyeh,,2,minab_district.txt,ميناب / مينار ,MINAB / MINAU ,District
+Geographic,شهوار,Shehvār,Shehvar,Village,Found in geonames w/certainty,381596,27.19449,57.05075,Shahbāz-e Qadīm,,20,minab_district.txt,ميناب / مينار ,MINAB / MINAU ,District
+Geographic,دهو,Dahu,Dahu,Village,Found in geonames w/certainty,381664,27.1245,56.9331,,,60,minab_district.txt,ميناب / مينار ,MINAB / MINAU ,District
+Geographic,درک,Darak,Darak,Village,Found in geonames w/certainty,401262,25.48332,59.48111,,,10,makran.txt,مكران,Makran ,Coast
+Geographic,تنگستان,TANGISTĀN,Tangistan,District,Found in geonames w/certainty,403641,29.01667,51.25,,,850,tangistan.txt,تنگستان,TANGISTAN,District
+Geographic,بيابان,Biyābān,Biyaban,District,Found in geonames w/certainty,403910,26.76667,57.56667,,,300,biyaban.txt,بيابان,Biyaban,District
+Geographic,الفويرط,Fuwairat,Fuwairat,Village,Found in geonames w/certainty,406787,26.02565,51.36971,,,100,fuwairat.txt,الفويرط,Fuwairat,Village
+Geographic,محيدث,Mahaidith,Mahaidith,Unspecified,Found in geonames w/certainty,411211,23.332,58.58079,,,20,maih_wadi.txt,ميح وادي,Maih Wadi,Valley
+Geographic,ساح,Sāh,Sah,Village,Found in geonames w/certainty,411274,23.08854,58.85409,Asayh,,5,mazara_.txt,مزارع,MAZARA',Village
+Geographic,جزير,Jazīr,Jazir,Village,Found in geonames w/certainty,411276,23.08685,58.86458,,,10,mazara_.txt,مزارع,MAZARA',Village
+Geographic,قريه,Qaryah,Qaryah,Village,Found in geonames w/certainty,411278,23.07504,58.86675,,,20,mazara_.txt,مزارع,MAZARA',Village
+Geographic,منسفت,Minsift,Minsift,Village,Found in geonames w/certainty,411279,23.07324,58.8709,,,14,mazara_.txt,مزارع,MAZARA',Village
+Geographic,مقريمتين,Muqraimatain,Muqraimatain,Unspecified,Found in geonames w/certainty,411463,22.56326,59.52423,,,40,sur.txt,صور / سور,SUR,Town
+Geographic,دبيشي,Dabaishi,Dabaishi,Unspecified,Found in geonames w/certainty,411722,23.18039,56.48965,,,100,sanaisal_wadi.txt,وادي سنيسل,SANAISAL (WADI),Valley
+Geographic,غضيفه,Ghadhaifah,Ghadhaifah,Village,Found in geonames w/certainty,411774,23.98438,56.49166,Al Khabat,,70,ahin_wadi.txt,وادي عاهن, ahin (Wadi) ,Valley
+Geographic,رحبه,Rahbah,Rahbah,Village,Found in geonames w/certainty,411848,23.63779,56.80467,,,100,umr_wadi_bani.txt,وادي بني عمر,UMR (WADI BANI),Tributary
+Geographic,ينقل,Yanqul,Yanqul,Unspecified,Found in geonames w/certainty,411849,23.58645,56.53969,,,200,dhank_wadi.txt,وادي ضنک,Dhank (Wadi),Valley
+Geographic,لاهن,Lāhan,Lahan,Village,Found in geonames w/certainty,411969,23.32399,58.2262,Al Ḩann,Lorimer had a typo,15,mansah_wadi.txt,وادي منصح,Mansah (Wadi),Valley
+Geographic,مسبت,Musibt,Musibt,Village,Found in geonames w/certainty,411972,23.29686,58.22551,,,10,mansah_wadi.txt,وادي منصح,Mansah (Wadi),Valley
+Geographic, مزرع حليله,Mizra'Halīlah,Mizra Halilah,Village,Found in geonames w/certainty,411973,23.26309,58.22752,,,5,mansah_wadi.txt,وادي منصح,Mansah (Wadi),Valley
+Geographic,سيجاني,Saijāni,Saijani,Village,Found in geonames w/certainty,411975,23.22805,58.06439,,,75,saijani_wadi.txt,وادي سيجاني,SAIJANI (WADI),Valley
+Geographic,نجيد,Najaid,Najaid,Unspecified,Found in geonames w/certainty,411984,23.06431,58.12841,,,10,kabir_wadi_al.txt,وادي الكبير,Kabir (Wadi-al-),Valley
+Geographic,منيثيره,Manaithīrah,Manaithirah,Village,Found in geonames w/certainty,411991,23.1079,58.30508,,,40,mansah_wadi.txt,وادي منصح,Mansah (Wadi),Valley
+Geographic,عوينات,Awaināt ,Awainat ,Unspecified,Found in geonames w/certainty,412124,23.21333,57.66295,,,20,sohar_wilayat.txt,صحار,SOHAR WILAYAT,Unspecified
+Geographic,عليا, 'Aliya,Aliya,Village,Found in geonames w/certainty,412127,23.18184,57.64388,,,40,kharus_wadi_bani.txt,وادي بني خروص/صوادي بني,Kharus (Wadi Bani),Valley
+Geographic,قريه,Qaryah,Qaryah,Unspecified,Found in geonames w/certainty,412150,23.06872,57.68032,,,6,oman_proper.txt,عمان,OMAN PROPER,District
+Geographic,جورخ,Jūrakh,Jurakh,Village,Found in geonames w/certainty,412165,23.02906,57.98018,Yawrakh,,40,mahram_wadi.txt,وادي محرم,Mahram (Wadi),Valley
+Geographic,عيينه,Uyainah,Uyainah,Village,Found in geonames w/certainty,412169,23.06128,57.95377,,,40,mahram_wadi.txt,وادي محرم,Mahram (Wadi),Valley
+Geographic,بصعه,Badh'ah,Badhah,Village,Found in geonames w/certainty,412286,22.54957,59.12071,,,30,khalid_wadi_bani.txt,وادي بني خالد,Khalid (Wadi Bani),Valley
+Geographic,وقيبه,Waqibah,Waqibah,Unspecified,Found in geonames w/certainty,412892,24.36071,56.73797,,,40,sohar_wilayat.txt,صحار,SOHAR WILAYAT,Unspecified
+Geographic,عذار, 'Adhār,Adhar,Village,Found in geonames w/certainty,414855,23.98178,47.15274,,,60,kharj.txt,خرج,Kharj,District
+Geographic,خلا,Khala,Khala,Village,Found in geonames w/certainty,442232,22.99966,58.0173,,,20,mahram_wadi.txt,وادي محرم,Mahram (Wadi),Valley
+Geographic, معيدن,Ma'aidin,Maaidin,Unspecified,Found in geonames w/certainty,442253,22.97783,58.25978,,,6,sharqiyah.txt,شرقيه,SHARQIYAH,District
+Geographic,دشتي,Dashti district,Dashti district,District,Found in geonames w/certainty,449499,28.48685,51.56182,,,1250,dashti.txt,دشتي,Dashti,District
+Geographic,حيات داود,Hayāt dāvud,Hayat davud,District,Found in geonames w/certainty,449503,29.64574,50.64699,,,250,hayat_davud.txt,حيات داود,Hayat davud,District
+Geographic,ميناب / مينار ,MĪNĀB / MINĀU ,Minab / Minau,District,Found in geonames w/certainty,449707,26.93333,57.28333,Shahrestān-e Mīnāb,,1000,minab_district.txt,ميناب / مينار ,MINAB / MINAU ,District
+Geographic,مومان,Mōmān ,Moman ,Village,Found in geonames w/certainty,1113381,25.5658,60.4793,,I used the lower one not the upper one,20,makran.txt,مكران,Makran ,Coast
+Geographic,بريس ,Brīs,Bris,Village,Found in geonames w/certainty,1113464,25.13681,61.1907,,"I chose the lower one as it is westward facing, per Lorimer's description",8,makran.txt,مكران,Makran ,Coast
+Geographic,تيركوپان,Taizkōpān,Taizkopan,Village,Found in geonames w/certainty,1159367,25.3224,60.7559,,,350,makran.txt,مكران,Makran ,Coast
+Geographic,طيس / تيز,Tīz / Tīs,Tiz / Tis,Village,Found in geonames w/certainty,1159368,25.3569,60.6209,,,4,makran.txt,مكران,Makran ,Coast
+Geographic,سگاري,Sigāri,Sigari,Village,Found in geonames w/certainty,1159471,25.31667,61.41667,,,50,makran.txt,مكران,Makran ,Coast
+Geographic,سركوه,Sarkūh,Sarkuh,Village,Found in geonames w/certainty,1159688,25.29656,61.13262,Sar Kūb,Southwest of that one city not west but close enough,30,makran.txt,مكران,Makran ,Coast
+Geographic,پارگ,Pārag ,Parag ,Village,Found in geonames w/certainty,1160037,25.4954,60.5626,Pārk-e Hūtān,"There were a few, I went with the biggest and the one labled by google",10,makran.txt,مكران,Makran ,Coast
+Geographic,نگور,Nigor,Nigor,Village,Found in geonames w/certainty,1160121,25.38882,61.13834,,,60,makran.txt,مكران,Makran ,Coast
+Geographic,نكور,Nigwar,Nigwar,Locality,Found in geonames w/certainty,1160121,25.38882,61.13834,,,200,gwadar_district.txt,كوادر,Gwadar District ,District
+Geographic,ملن,Milin,Milin,Village,Found in geonames w/certainty,1160269,25.46667,60.21667,,"Couldn't find the exact village, this is the hill mentioned to be in the village",20,makran.txt,مكران,Makran ,Coast
+Geographic,كنرک,Kunarak,Kunarak,Village,Found in geonames w/certainty,1160500,25.3604,60.3995,,,50,makran.txt,مكران,Makran ,Coast
+Geographic,هميدي گو,Hamīdi Gan,Hamidi Gan,Village,Found in geonames w/certainty,1160996,25.5331,60.4321,,,30,makran.txt,مكران,Makran ,Coast
+Geographic,ديرستان,Dairistān,Dairistan,Village,Found in geonames w/certainty,6649516,26.7463,55.9349,,,30,qishm_island.txt,قشم,QISHM ISLAND ,Island
+Geographic,نمردي,Namurdi,Namurdi,Village,Found in geonames w/certainty,6649701,26.3639,57.2232,,,3,biyaban.txt,بيابان,Biyaban,District
+Geographic,بوماني,Būmāni,Bumani,Unspecified,Found in geonames w/certainty,6649726,26.8297,57.0467,,There are a few options but this one was in the right direction,2,minab_district.txt,ميناب / مينار ,MINAB / MINAU ,District
+Geographic,مهميد احمدي,Muhmid Ahmadi,Muhmid Ahmadi,Unspecified,Found in geonames w/certainty,6651569,28.9254,51.272,,,70,tangistan.txt,تنگستان,TANGISTAN,District
+Geographic,ميدر حسني,Midar Hasani,Midar Hasani,Unspecified,Found in geonames w/certainty,6651631,28.9266,51.0383,Gūrak Mazār Ḩoseynī,,10,tangistan.txt,تنگستان,TANGISTAN,District
+Geographic,مشيله حيدر محمد علي,Mashīleh Haidar Muhammad 'Ali,Mashileh Haidar Muhammad Ali,Village,Found in geonames w/certainty,6651649,28.9377,51.1468,,,20,dashti.txt,دشتي,Dashti,District
+Geographic,خشم زائر خضر,Zāir Khizar(Khashm),Khashm Zair Khizar,Unspecified,Found in geonames w/certainty,6651730,29.0015,51.2234,,,50,tangistan.txt,تنگستان,TANGISTAN,District
+Geographic,جلابّي,Jallābi,Jallabi,Village,Found in geonames w/certainty,6654560,27.368,56.677,,,30,shamil_district.txt,شميل / شميلات,SHAMIL / SHAMILaT,District
+Geographic,سرزه,Sarzch,Sarzch,Village,Found in geonames w/certainty,6654581,26.4406,57.2593,,"Two places with the same name, both fit lorimers describtion. I chose the one closer to the river. goeid of the other place: 116713",12,biyaban.txt,بيابان,Biyaban,District
+Geographic,باغ رئيس,Raīs (Bāgh),Bagh Rais ,Village,Found in geonames w/certainty,6655348,28.2572,51.4996,Bāgh-e rais ‘Āli,,12,dashti.txt,دشتي,Dashti,District
+Geographic,بيت نعمه,Bait Na 'amah,Bait Naamah,Settlement,Found in geonames w/certainty,6751137,30.47634,47.88555,Qamat Na‘mah,,5,arab_shatt_al.txt,شطّ العرب, Arab (Shatt-al-),River
+Geographic,سبيليات,Sabīliyāt,Sabiliyat,Village,Found in geonames w/certainty,6751147,30.46222,47.96394,,,5,arab_shatt_al.txt,شطّ العرب, Arab (Shatt-al-),River
+Geographic,دويب,Dawaib,Dawaib,Tract,Found in geonames w/certainty,6759674,32.24233,45.91625,,,6,dawasir_district.txt,دواسر,Dawasir,District
+Geographic,كنار بهار,Kunār Bahār,Kunar Bahar,Village,Found in genomes w/uncertainty,6916308,27.1895,53.0431,Bāghestān ,,30,gabandi.txt,كابندي,Gabandi,Valley
+Geographic,چاه علي,Ali (Chāh),Chah Ali,Village,Found in geonames w/certainty,6916527,27.35464,53.16145,,,30,dashti.txt,دشتي,Dashti,District
+Geographic,كوت العميرة, 'Amaireh (Kūt-al-),Kut al Amaireh ,Village,Found in geonames w/certainty,7416836,31.22842,48.61066,Shahrak-e Kūt-e Amīr,,200,karun.txt,كارون,Karun,River
+Geographic,ناي بند,Nāiband,Naiband,Village,Found in geonames w/certainty,8054648,27.1862,56.31565,Nāyband-e Jonūbī ,,5,shamil_district.txt,شميل / شميلات,SHAMIL / SHAMILaT,District
+Geographic,موالخ,Mawālikh,Mawalikh,Unspecified,Found in geonames w/certainty,8538300,23.60201,58.22932,,,10,risail_wadi.txt,وادي رسيل,RISAIL (WADI),Valley
+Geographic,دكّه,Dikkah,Dikkah,Village,Found in geonames w/certainty,10627328,23.61087,58.59425,Takia,,60,masqat_district.txt,مسقط,Masqat,District
+Geographic,غلط,Ghāt,Ghat,Village,Found in geonames w/certainty,10972314,26,44.9,,,200,sadair.txt,سدير,SADAIR,District
+Geographic,همبار,Himbar,Himbar,Unspecified,Found in geonames w/certainty,11760946,24.34051,56.74208,,,30,sohar_wilayat.txt,صحار,SOHAR WILAYAT,Unspecified
+Geographic,مرير الصغيره,Murair-as-Saghīrah,Murair as Saghirah,Unspecified,Found in geonames w/certainty,11781014,24.91841,56.38243,Murayr ad Darāmikah,,20,shinas_subwilayat.txt,شناص,SHINAS SUB-WILAYAT,Unspecified
+Geographic,مرفيه,Mūfiyah,Mufiyah,Unspecified,Found in geonames w/certainty,11783903,23.80433,55.984,,,150,dhahirah.txt,ظاهره,Dhahirah,District
+Geographic,بزيلي,Bizaili,Bizaili,Village,Found in geonames w/certainty,11785435,23.52843,56.03072,Falaj al Buzaylī,,25,dhahirah.txt,ظاهره,Dhahirah,District
+Geographic,سهيله,Sahailah,Sahailah,Village,Found in geonames w/certainty,11800001,23.97525,56.95067,,,10,saham_subwilayat.txt,صخم,SAHAM SUBWILAYAT,Unspecified
+Geographic,ديقره,Daiqarah,Daiqarah,Unspecified,Found in geonames w/certainty,11800567,23.48821,56.96422,,,7,mabrah_wadi.txt,وادي مبرح,Mabrah (Wadi),Valley
+Geographic,بو محار,Mahār (Bū),Bu Mahar ,Unspecified,Found in geonames w/certainty,11804796,23.70939,57.77986,Abū Maḩḩār,,30,batinah.txt,باطنه,Batinah,District
+Geographic,وادي طو,TAU(WĀDI),Wadi Tau ,Valley,Found in geonames w/certainty,11804866,23.70665,57.95341,,,70,tau_wadi.txt,وادي طو,TAU (WADI),Valley
+Geographic,عريق,Araiq,Araiq,Unspecified,Found in geonames w/certainty,11806626,23.48874,57.81265,,,30,ma_awal_wadi.txt,وادي معاول,Ma'awal (Wadi),Valley
+Geographic,طو الشيخ,Tau-ash-Shaikh,Tau ash Shaikh,Village,Found in geonames w/certainty,11806705,23.088,57.55654,,,15,kharus_wadi_bani.txt,وادي بني خروص/صوادي بني,Kharus (Wadi Bani),Valley
+Geographic,جردا,Jarda,Jarda,Unspecified,Found in geonames w/certainty,11807003,23.02051,58.21232,,,20,hajar_eastern.txt,حجر,Hajar (Eastern),Unspecified
+Geographic,رحبه,Rahbah,Rahbah,Village,Found in geonames w/certainty,11807012,23.1117,58.20432,,,60,mansah_wadi.txt,وادي منصح,Mansah (Wadi),Valley
+Geographic,متعارشه,Muta'ārishah,Mutaarishah,Village,Found in geonames w/certainty,11813861,24.07508,56.42203,,,8,hilti_wadi_al.txt,وادي الحلتي ,Hilti (Wadi-al-),Valley
+Geographic,خبط,Khabt,Khabt,Village,Found in geonames w/certainty,11813871,24.07976,56.45778,,,3,hilti_wadi_al.txt,وادي الحلتي ,Hilti (Wadi-al-),Valley
+Geographic,عبيله,Abailah,Abailah,Village,Found in geonames w/certainty,11813872,24.07908,56.47909,,,2,hilti_wadi_al.txt,وادي الحلتي ,Hilti (Wadi-al-),Valley
+Geographic,عقير,Aqair,Aqair,Village,Found in geonames w/certainty,11813873,24.09119,56.44574,,,8,hilti_wadi_al.txt,وادي الحلتي ,Hilti (Wadi-al-),Valley
+Geographic,حيّض,Haiyadh,Haiyadh,Village,Found in geonames w/certainty,11813874,24.0941,56.45206,,,6,haiyadh.txt,حيّض,Haiyadh,Village
+Geographic,محوت,Mahōt ,Mahot ,Village,Found in geonames w/certainty,11814626,20.76133,58.28952,,,10,mahot.txt,محوت,Mahot ,Village
+Geographic,وادي دما,Dima (wadi),Wadi Dima ,Valley,Found in geonames w/certainty,11832226,22.98473,57.91723,,,350,dima_wadi.txt,وادي دما,Dima (Wadi),Valley
+Geographic,سوق القديم,Sūq-al-Qadīm,Suq al Qadim,Unspecified,Found in geonames w/certainty,11832246,22.82794,57.75768,,,4,oman_proper.txt,عمان,OMAN PROPER,District
+Geographic,عزّ,Izz,Izz,Unspecified,Found in geonames w/certainty,11835130,22.74507,57.59331,,,3,oman_proper.txt,عمان,OMAN PROPER,District
+Geographic,دوح,Dūh,Duh,Unspecified,Found in geonames w/certainty,11835190,22.54932,57.92564,,,50,oman_proper.txt,عمان,OMAN PROPER,District
+Geographic,علو,Alo,Alo,Village,Found in geonames w/certainty,11835213,22.90107,58.2259,,,10,samad_wadi.txt,وادي سمد,SAMAD (WADI),Valley
+Geographic,فلج مسعود,Falaj Mas'ūd,Falaj Masud,Village,Found in geonames w/certainty,11845862,22.58338,58.62481,,,10,sharqiyah.txt,شرقيه,SHARQIYAH,District
+Geographic,بعد,Ba'ad,Baad,Tributary,Found in geonames w/certainty,12030993,23.09115,58.34619,,"Lorimer didn't add the arabic name of the place, the name in AR is بعد",30,tayin_wadi.txt,وادي طايين,TAYIN (WADI),Valley
+Geographic,مزرع سدر,Mizra' Sidr,Mizra Sidr,Village,Found in geonames w/certainty,12036387,23.26322,58.22775,As Suwayqimah,,5,mansah_wadi.txt,وادي منصح,Mansah (Wadi),Valley
+Geographic,مزرع,Mizra',Mizra,Village,Found in geonames w/certainty,12036391,23.30589,58.04546,,,12,saijani_wadi.txt,وادي سيجاني,SAIJANI (WADI),Valley
+Geographic,عبيره,Ghubairah,Ghubairah,Village,Found in geonames w/certainty,12036402,23.0915,58.86481,,,10,mazara_.txt,مزارع,MAZARA',Village
+Geographic,عفا,Afa,Afa,Unspecified,Found in geonames w/certainty,12062780,23.24106,58.89218,Ifa,,50,quryat.txt,قريات,QURYAT,Town
+Geographic,خطوه,Khatwah,Khatwah,Village,Found in geonames w/certainty,12062838,23.41309,58.13426,Al Khūbī,,15,mansah_wadi.txt,وادي منصح,Mansah (Wadi),Valley
+Geographic,مسفاه,Misfāh ,Misfah ,Village,Found in geonames w/certainty,12075399,23.35593,58.0317,,,20,jabir_wadi_II.txt,وادي بني جابر,Jabir (Wadi Bani),Valley
+Geographic,بديه,Bidyah,Bidyah,Village,Found in geonames w/certainty,12215972,22.141,58.825,,,15,bidyah.txt,بديه,Bidyah,Village
+Geographic,مرّ,Murr,Murr,Village,Found in google maps,N/A,23.320326,58.234971,,,4,mansah_wadi.txt,وادي منصح,Mansah (Wadi),Valley
+Geographic,عين بني صارخ, 'Ain Bani Sārikh,Ain Bani Sarikh,Village,Found in google maps,N/A,23.20633405,56.95446818,,Couldn't find the geoid in geonames but I found the lat & long in google map.,20,ain_wadi_al.txt,وادي العين, Ain (Wadi-al-),Valley
+Geographic,ملا,Mala,Mala,Village,Found in google maps,N/A,23.329056,58.217675,,,20,mansah_wadi.txt,وادي منصح,Mansah (Wadi),Valley
+Geographic,گودندر,Gūrandu,Gurandu,Unspecified,Found in google maps,N/A,25.75407739,58.48973034,,,50,jashk_district.txt,جاشک,Jashk district ,District
+Geographic,مطيّه,Matīyah,Matiyah,Village,Not found,N/A,N/A,N/A,,,20,mahram_wadi.txt,وادي محرم,Mahram (Wadi),Valley
+Geographic,علي مطريوم,Ali Matriyūm ,Ali Matriyum ,Unspecified,Not found,N/A,N/A,N/A,,,3,minab_district.txt,ميناب / مينار ,MINAB / MINAU ,District
+Geographic,قيقا,Qaiqa ,Qaiqa ,Village,Not found,N/A,N/A,N/A,,,60,jabir_wadi_II.txt,وادي بني جابر,Jabir (Wadi Bani),Valley
+Geographic,قلاي رستم خاني,Rustam Khāni (Qalāi),Qalai Rustam Khani,Village,Not found,N/A,N/A,N/A,,,100,shabankareh.txt,شبانكاره,SHABANKAREH,District
+Geographic,حوطه,Hautah ,Hautah ,Town,Not found,N/A,N/A,N/A,,,500,hautab.txt,حوطه,Hautah ,District
+Geographic,فلج الشخارين,Falaj-ash-Shakhāriyīn,Falaj ash Shakhariyin,Village,Not found,N/A,N/A,N/A,,,100,ahin_wadi.txt,وادي عاهن, ahin (Wadi) ,Valley
+Geographic,أبو الحمد,Abul Hamad,Abul Hamad,Settlement,Not found,N/A,N/A,N/A,,,2,arab_shatt_al.txt,شطّ العرب, Arab (Shatt-al-),River
+Geographic,لباني,Labāni,Labani,Village,Not found,N/A,N/A,N/A,,,2,arab_shatt_al.txt,شطّ العرب, Arab (Shatt-al-),River
+Geographic,دردان,Dardān,Dardan,Village,Not found,N/A,N/A,N/A,,,2,biyaban.txt,بيابان,Biyaban,District
+Geographic,دشو,Dashu,Dashu,Village,Not found,N/A,N/A,N/A,,,10,dashti.txt,دشتي,Dashti,District
+Geographic,تراوي,Trāvi,Travi,Village,Not found,N/A,N/A,N/A,,,15,dashti.txt,دشتي,Dashti,District
+Geographic,چاه پول,Chābpūl,Chabpul,Village,Not found,N/A,N/A,N/A,,,20,dashti.txt,دشتي,Dashti,District
+Geographic,مشيله اكبري,Mashīleh Akbari,Mashileh Akbari,Village,Not found,N/A,N/A,N/A,,,25,dashti.txt,دشتي,Dashti,District
+Geographic,تمبو,Tumbu,Tumbu,Village,Not found,N/A,N/A,N/A,,,3,gabandi.txt,كابندي,Gabandi,Valley
+Geographic,تمبو غربي,Tumbu Gharbi,Tumbu Gharbi,Village,Not found,N/A,N/A,N/A,,,3,gabandi.txt,كابندي,Gabandi,Valley
+Geographic,نخل ديلم,Dailam (Nakhl),Nakhl Dailam,Village,Not found,N/A,N/A,N/A,,,7,gabandi.txt,كابندي,Gabandi,Valley
+Geographic,نخل كريط,Graīt (Nakhl),Nakhl Grait ,Village,Not found,N/A,N/A,N/A,,,7,gabandi.txt,كابندي,Gabandi,Valley
+Geographic,فلج الحواسنه,Falaj-al-Hawāsinah,Falaj al Hawasinah,Channel,Not found,N/A,N/A,N/A,,,20,hawasinah_wadi_al.txt,وادي الحواسنه,Hawasinah (Wadi-al-) ,Valley
+Geographic,بدعه اولاد جمعه,Bada' ah Aulād Juma' ah,Badaah Aulad Jumaah,Channel,Not found,N/A,N/A,N/A,,,3,hawasinah_wadi_al.txt,وادي الحواسنه,Hawasinah (Wadi-al-) ,Valley
+Geographic,كلابتان,Kalābatān,Kalabatan,Unspecified,Not found,N/A,N/A,N/A,,,20,jashk_district.txt,جاشک,Jashk district ,District
+Geographic,آدوري,Ādūri,Aduri,Unspecified,Not found,N/A,N/A,N/A,,,20,jashk_district.txt,جاشک,Jashk district ,District
+Geographic,ملگي مچ,Malagimach,Malagimach,Unspecified,Not found,N/A,N/A,N/A,,,200,jashk_district.txt,جاشک,Jashk district ,District
+Geographic,لوند,Lōnd,Lond,Unspecified,Not found,N/A,N/A,N/A,,,30,jashk_district.txt,جاشک,Jashk district ,District
+Geographic,دار زين,Dārzīn,Darzin,Unspecified,Not found,N/A,N/A,N/A,,,50,jashk_district.txt,جاشک,Jashk district ,District
+Geographic,فرفار السلاطنه,Furfār-as-Salātinah,Furfar as Salatinah,Unspecified,Not found,N/A,N/A,N/A,,,8,liwa_subwilayat.txt,لوى,Liwa sub-wilayat,Unspecified
+Geographic,رقيّد,Raqaiyid,Raqaiyid,Unspecified,Not found,N/A,N/A,N/A,,,8,mabrah_wadi.txt,وادي مبرح,Mabrah (Wadi),Valley
+Geographic,راكل ملح,Rākil Milh,Rakil Milh,Unspecified,Not found,N/A,N/A,N/A,,,10,maih_wadi.txt,ميح وادي,Maih Wadi,Valley
+Geographic,طويله,Tawīlah ,Tawilah ,Unspecified,Not found,N/A,N/A,N/A,,,12,maih_wadi.txt,ميح وادي,Maih Wadi,Valley
+Geographic,مهائل,Mahāil,Mahail,Unspecified,Not found,N/A,N/A,N/A,,,7,maih_wadi.txt,ميح وادي,Maih Wadi,Valley
+Geographic,كنج,Kinj,Kinj,Village,Not found,N/A,N/A,N/A,,,10,makran.txt,مكران,Makran ,Coast
+Geographic,امدرامتک,Amdrāmtak,Amdramtak,Village,Not found,N/A,N/A,N/A,,There is nothing where Lorimer describes there being something,70,makran.txt,مكران,Makran ,Coast
+Geographic,دلگشا,Dilgusha,Dilgusha,Unspecified,Not found,N/A,N/A,N/A,,,10,minab_district.txt,ميناب / مينار ,MINAB / MINAU ,District
+Geographic,كوهمني,Gvehamini,Gvehamini,Unspecified,Not found,N/A,N/A,N/A,,,10,minab_district.txt,ميناب / مينار ,MINAB / MINAU ,District
+Geographic,چاه قمبر,Qambalr (Chāh),Chah Qambalr ,Unspecified,Not found,N/A,N/A,N/A,,,10,minab_district.txt,ميناب / مينار ,MINAB / MINAU ,District
+Geographic,سهبنسول,Sehbansū,Sehbansu,Unspecified,Not found,N/A,N/A,N/A,,,15,minab_district.txt,ميناب / مينار ,MINAB / MINAU ,District
+Geographic,كوراني,Gaurani,Gaurani,Unspecified,Not found,N/A,N/A,N/A,,,25,minab_district.txt,ميناب / مينار ,MINAB / MINAU ,District
+Geographic,داهي قند,Dāhi ,Dahi ,Unspecified,Not found,N/A,N/A,N/A,Dāhi Qand,,3,minab_district.txt,ميناب / مينار ,MINAB / MINAU ,District
+Geographic,رامچان,Rāmchān,Ramchan,Unspecified,Not found,N/A,N/A,N/A,,,5,minab_district.txt,ميناب / مينار ,MINAB / MINAU ,District
+Geographic,جانتري,Jānfari,Janfari,Unspecified,Not found,N/A,N/A,N/A,,,6,minab_district.txt,ميناب / مينار ,MINAB / MINAU ,District
+Geographic,سچه,Sacheh,Sacheh,Village,Not found,N/A,N/A,N/A,,,10,mugam.txt,مكام / مقام,MUGAM / MUQAM,Valley
+Geographic,مزرع الهيتني,Mizra'-al-Haitani,Mizra al Haitani,Village,Not found,N/A,N/A,N/A,,,15,saijani_wadi.txt,وادي سيجاني,SAIJANI (WADI),Valley
+Geographic,ترككي,Turkaki,Turkaki,Village,Not found,N/A,N/A,N/A,,,40,shabankareh.txt,شبانكاره,SHABANKAREH,District
+Geographic,نضاره,Nadhārah,Nadharah,Unspecified,Not found,N/A,N/A,N/A,,,5,sharqiyah.txt,شرقيه,SHARQIYAH,District
+Geographic,فريخ,Faraikh,Faraikh,Unspecified,Not found,N/A,N/A,N/A,,,7,sharqiyah.txt,شرقيه,SHARQIYAH,District
+Geographic,خور خوير,Khuvair(Khor),Khor Khuvair,Unspecified,Not found,N/A,N/A,N/A,,,10,tangistan.txt,تنگستان,TANGISTAN,District
+Geographic,باغ شكر,Shakar(Bāgh),Bagh Shakar,Unspecified,Not found,N/A,N/A,N/A,,,20,tangistan.txt,تنگستان,TANGISTAN,District
+Geographic,قلعه تقي,Taqi (Qal'eh-i-),Qaleh-i-Taqi,Unspecified,Not found,N/A,N/A,N/A,,Found a place called Rūstā-ye Qal‘eh-ye Ra’īs Taqī but it doesnt fit the describition,20,tangistan.txt,تنگستان,TANGISTAN,District
+Geographic,مكري,Makri,Makri,Unspecified,Not found,N/A,N/A,N/A,,,30,tangistan.txt,تنگستان,TANGISTAN,District
+Geographic,احشام شيخ,Ihshām Shaikh,Ihsham Shaikh,Unspecified,Not found,N/A,N/A,N/A,,,30,tangistan.txt,تنگستان,TANGISTAN,District
+Geographic,پاكشي,Rākashi,Rakashi,Unspecified,Not found,N/A,N/A,N/A,,,50,tangistan.txt,تنگستان,TANGISTAN,District
+Geographic,بريسمون,Biraismūn (Birkeh),Birkeh Biraismun ,Unspecified,Not found,N/A,N/A,N/A,,,10,lingeh_district.txt,لنجه/لنگه,Lingeh/Linjah,District
+Geographic,كاپنان,Gābnān,Gabnan,Village,Not found,N/A,N/A,N/A,,,4,biyaban.txt,بيابان,Biyaban,District
+Non geographic,جامع,Jāma',Jama,Tribe,N/A,N/A,N/A,N/A,,,100,ahwaz_district.txt,اهواز,Ahwaz ,District
+Non geographic,مرونه,Marawuneh,Marawuneh,Tribe,N/A,N/A,N/A,N/A,,,100,ahwaz_district.txt,اهواز,Ahwaz ,District
+Non geographic,آل بو روايه,Rawāyeh (Āl Bū),Al Bu Rawayeh ,Tribe,N/A,N/A,N/A,N/A,,,100,ahwaz_district.txt,اهواز,Ahwaz ,District
+Non geographic,شواكر,Shawākir,Shawakir,Tribe,N/A,N/A,N/A,N/A,,,20,ahwaz_district.txt,اهواز,Ahwaz ,District
+Non geographic,مزامله,Mazāmilah,Mazamilah,Subtribe,N/A,N/A,N/A,N/A,,,100,ali_bani_bu.txt,بني بو علي, Ali (Bani Bu) ,Tribe
+Non geographic,عبادات,Abādāt,Abadat,Subtribe,N/A,N/A,N/A,N/A,,,10,anafijeh.txt,عنافجه,Anafijeh,Tribe
+Non geographic,حميد بيت طرفه,Hamaid Bait Tarfeh,Hamaid Bait Tarfeh,Subtribe,N/A,N/A,N/A,N/A,,,20,anafijeh.txt,عنافجه,Anafijeh,Tribe
+Non geographic,آل بو بالد,Bālid (Al Bū),Al Bu Balid ,Subtribe,N/A,N/A,N/A,N/A,,,100,bawiyeh.txt,باويّه,Bawiyeh,Tribe
+Non geographic,بيت صنهير,Sunhair (Bait),Bait Sunhair,Subtribe,N/A,N/A,N/A,N/A,,,100,bawiyeh.txt,باويّه,Bawiyeh,Tribe
+Non geographic,عمور,Amūr,Amur,Subtribe,N/A,N/A,N/A,N/A,,,200,bawiyeh.txt,باويّه,Bawiyeh,Tribe
+Non geographic,بني خالد,Khālid (Bani),Bani Khalid ,Subtribe,N/A,N/A,N/A,N/A,,,300,bawiyeh.txt,باويّه,Bawiyeh,Tribe
+Non geographic,بيت خزعل,Khaz'al (Bait),Bait Khazal,Subtribe,N/A,N/A,N/A,N/A,,,40,bawiyeh.txt,باويّه,Bawiyeh,Tribe
+Non geographic,الخضيرات و المباركي,Khudhairiyāt and Imbāraki,Khudhairiyat and Imbaraki,Subtribe,N/A,N/A,N/A,N/A,,Lorimer didn't have the name in AR so I added it. ,400,bawiyeh.txt,باويّه,Bawiyeh,Tribe
+Non geographic,آل زهراو,Zahrāo (Al),Al Zahrao ,Subtribe,N/A,N/A,N/A,N/A,,,400,bawiyeh.txt,باويّه,Bawiyeh,Tribe
+Non geographic,غفله,Ghafa-lah,Ghafa-lah,Tribe,N/A,N/A,N/A,N/A,,,700,ghafalah.txt,غفله,Ghafa-lah,Tribe
+Non geographic,حبوس,Habūs,Habus ,Tribe,N/A,N/A,N/A,N/A,,,60,habus.txt,حبوس,Habus ,Tribe
+Non geographic,عوامر,Awāmir,Awamir,Subtribe,N/A,N/A,N/A,N/A,,,40,hamaid.txt,حميد,Hamaid,Tribe
+Non geographic,خرامزه,Kharāmizeh,Kharamizeh,Subtribe,N/A,N/A,N/A,N/A,,,40,hamaid.txt,حميد,Hamaid,Tribe
+Non geographic,حردان ,Hardān,Hardan,Tribe,N/A,N/A,N/A,N/A,,,300,hardan.txt,حردان,Hardan,Tribe
+Non geographic,بني نعامه,Na'āmeh (Bani),Bani Naameh ,Subtribe,N/A,N/A,N/A,N/A,,,10,hardan.txt,حردان,Hardan,Tribe
+Non geographic,حردان,Hardān,Hardan,Subtribe,N/A,N/A,N/A,N/A,,,200,hardan.txt,حردان,Hardan,Tribe
+Non geographic,بني تميم,Tamīm (Bani),Bani Tamim ,Subtribe,N/A,N/A,N/A,N/A,,,40,hardan.txt,حردان,Hardan,Tribe
+Non geographic,عبوده, 'Abūdeh ,Abudeh ,Subtribe,N/A,N/A,N/A,N/A,,,50,hardan.txt,حردان,Hardan,Tribe
+Non geographic, اهل جبل,Jabal (Ahl),Ahl Jabal,Subtribe,N/A,N/A,N/A,N/A,,,90,hasan_bani_bu.txt,بني بو حسن,Hasan (bani bu),Tribe
+Non geographic,هشم بني هاشم,Hishm hāshim bani,Hishm hashim bani,Tribe,N/A,N/A,N/A,N/A,,,500,hishm_hashim_bani.txt,هشم بني هاشم,Hishm hashim bani,Tribe
+Non geographic,ماهور,Māhūr,Mahur,Subtribe,N/A,N/A,N/A,N/A,,,100,kathir.txt,كثير,Kathir,Tribe
+Non geographic,معلّه,Ma'alleh,Maalleh,Subtribe,N/A,N/A,N/A,N/A,,,30,kathir.txt,كثير,Kathir,Tribe
+Non geographic,آل بو ناصر,Nāsir (Al Bū),Al Bu Nasir,Subtribe,N/A,N/A,N/A,N/A,,,40,kathir.txt,كثير,Kathir,Tribe
+Non geographic,بيت كريم / بيت موله,Karīm (Bait) / Mauleh (Bait),Bait Karim  / Bait Mauleh,Subtribe,N/A,N/A,N/A,N/A,,,500,kathir.txt,كثير,Kathir,Tribe
+Non geographic,زبيد,Zubaid,Zubaid,Subtribe,N/A,N/A,N/A,N/A,,,150,khamis_al.txt,آل خميس,Khamis (al),Tribe
+Non geographic,رزيق الصفر,Rizaij-as-Sufur,Rizaij as Sufur,Subtribe,N/A,N/A,N/A,N/A,,,30,khamis_al.txt,آل خميس,Khamis (al),Tribe
+Non geographic,احمد,Ahmadīyah/H madīyeh,Ahmadiyah / H madiyeh,Subtribe,N/A,N/A,N/A,N/A,,,40,khamis_al.txt,آل خميس,Khamis (al),Tribe
+Non geographic,منصور,Mansūr,Mansur,Subtribe,N/A,N/A,N/A,N/A,,,40,khamis_al.txt,آل خميس,Khamis (al),Tribe
+Non geographic,بني رشيد,Rashaid (Bani),Bani Rashaid ,Subtribe,N/A,N/A,N/A,N/A,,,40,khamis_al.txt,آل خميس,Khamis (al),Tribe
+Non geographic,آل بو عبّاد, 'Abbād (Āl Bū),Al Bu Abbad,Subtribe,N/A,N/A,N/A,N/A,,,50,khamis_al.txt,آل خميس,Khamis (al),Tribe
+Non geographic,زهيريّه ,Zahairīyeh,Zahairiyeh,Subtribe,N/A,N/A,N/A,N/A,,,50,khamis_al.txt,آل خميس,Khamis (al),Tribe
+Non geographic,رزيق السلطان,Rizaij-as-Sultān,Rizaij as Sultan,Subtribe,N/A,N/A,N/A,N/A,,,60,khamis_al.txt,آل خميس,Khamis (al),Tribe
+Non geographic,يال خميّس ,Yāl Khamaiyis,Yal Khamaiyis,Subtribe,N/A,N/A,N/A,N/A,,,150,kharus_bani.txt,بني خروص,Kharus (Bani),Tribe
+Non geographic,يال بن رشيد,Yāl Bin Rashīd,Yal Bin Rashid,Subtribe,N/A,N/A,N/A,N/A,,,60,ma_awal.txt,معاول,Maawal ,Tribe
+Non geographic,نعيم,NA'ĪM,Naim,Tribe,N/A,N/A,N/A,N/A,,,600,na_im.txt,نعيم,NAIM,Tribe
+Non geographic,خواطر,Khawātir,Khawatir,Subtribe,N/A,N/A,N/A,N/A,,,800,na_im.txt,نعيم,NAIM,Tribe
+Non geographic,مساعيد /  مساعده,Masā'īd / Masā'idah,Masaid / Masaidah,Subtribe,N/A,N/A,N/A,N/A,,,300,masakirah.txt,مساكره,MASAKIRAH,Tribe
+Non geographic,فليحات,Falaihāt,Falaihat,Subtribe,N/A,N/A,N/A,N/A,,,30,masakirah.txt,مساكره,MASAKIRAH,Tribe
+Non geographic,قائدي,Qāidi,Qaidi,Tribe,N/A,N/A,N/A,N/A,,,10,oman_trucial.txt,عمان,OMAN (TRUCIAL),Region
+Non geographic,بني قتب,QITAB (BANI),Bani Qitab,Tribe,N/A,N/A,N/A,N/A,,,1300,qitab_bani.txt,بني قتب,QITAB (BANI),Tribe
+Non geographic,كعب السطاطله,Ka'ab-as-Sitātleh,Kaab-as-Sitatleh,Subtribe,N/A,N/A,N/A,N/A,,,150,sa_ad_bait.txt,بيت سعد,SAAD (BAIT),Tribe
+Non geographic,بيت سعد,Sa'ad (Bait),Bait Saad,Subtribe,N/A,N/A,N/A,N/A,,,400,sa_ad_bait.txt,بيت سعد,SAAD (BAIT),Tribe
+Non geographic,ماضح,Māsakh,Masakh,Subtribe,N/A,N/A,N/A,N/A,,,50,salamat.txt,سلامات,SALAMAT,Tribe
+Non geographic,بني ساله,SĀLEH (BANI),Bani Saleh,Tribe,N/A,N/A,N/A,N/A,,,3000,saleh_bani.txt,بني ساله,SALEH (BANI),Tribe
+Non geographic,بني رشيد ,Bani Rashīd,Bani Rashid,Subtribe,N/A,N/A,N/A,N/A,,,100,sharifat.txt,شريفات,SHARIFAT,Tribe
+Non geographic,بني تميم,TAMĪM (BANI) (II),Bani Tamim II ,Tribe,N/A,N/A,N/A,N/A,,,2500,tamim_bani_II.txt,بني تميم,TAMIM (BANI) (II),Tribe
+Non geographic,شبول,Shabūl,Shabul,Subtribe,N/A,N/A,N/A,N/A,,,20,wahaib_bani.txt,بني وهيب,WAHAIB (BANI),Tribe
+Non geographic,كواسب,Kawāsib,Kawasib,Subtribe,N/A,N/A,N/A,N/A,,,30,wahaib_bani.txt,بني وهيب,WAHAIB (BANI),Tribe
+Non geographic,هوامل,Hawāmil,Hawamil,Subtribe,N/A,N/A,N/A,N/A,,,100,yas_bani.txt,بني ياس,YaS (BANI),Tribe
+Non geographic,رميثات,Rumaithāt,Rumaithat,Subtribe,N/A,N/A,N/A,N/A,,,100,yas_bani.txt,بني ياس,YAS (BANI),Tribe
+Non geographic,قمزان,Qumzān,Qumzan,Subtribe,N/A,N/A,N/A,N/A,,,100,yas_bani.txt,بني ياس,YAS (BANI),Tribe
+Non geographic,قنيصات,Qanaisāt,Qanaisat,Subtribe,N/A,N/A,N/A,N/A,,,6,yas_bani.txt,بني ياس,YAS (BANI),Tribe
+Non geographic,قبيسات,Qubaisāt,Qubaisat,Subtribe,N/A,N/A,N/A,N/A,,,60,yas_bani.txt,بني ياس,YAS (BANI),Tribe
