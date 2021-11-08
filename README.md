@@ -12,10 +12,6 @@ This repository contains four datasets representing historical data from around 
 * Bahrain Date Palms in 1907 [dataset](https://github.com/opengulf/Lorimer_data/blob/master/BH_date_palms.csv) | [map](https://opengulf.github.io/dates)
 * Camels in the Early 20th Century Arabian Gulf [dataset](https://github.com/opengulf/Lorimer_data/blob/master/camels_Arabian_Gulf.csv) | [map](https://opengulf.github.io/camels)
 
-## Licenses
-
-These datasets are licensed with a [Creative Commons 4.0 BY-NC-SA International license.](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-
 ## Suggested Citation
 
 OpenGulf Project (2020). [Name of Dataset]. https://github.com/opengulf/Lorimer_data. Accessed xxxx.yy.zz. DOI:10.5281/zenodo.4678674
